@@ -1,0 +1,573 @@
+,Parameter Name,Site_keys,LU,ppm
+0,TSP - combined,[ 34.728831 -86.585003],"{'Commercial and Services': 0.79, 'Residential': 0.21}",0.019402800000000005
+1,TSP - combined,[ 31.79056 -85.97917],"{'Commercial and Services': 0.06, 'Mixed urban or built-up land': 0.14, 'Industrial': 0.03, 'Cropland and pasture': 0.51, 'Mixed forest land': 0.26}",0.012240000000000001
+2,TSP - combined,[  34.11303 -109.29344],"{'Residential': 0.83, 'Cropland and pasture': 0.17}",0.027359116
+3,TSP - combined,[  34.4225 -109.15  ],"{'Shrub-brushland rangeland': 0.49238578680203043, 'Mixed rangeland': 0.5076142131979695}",0.0035355550000000006
+4,TSP - combined,[  31.410556 -109.876111],"{'Commercial and Services': 0.02912621359223301, 'Shrub-brushland rangeland': 0.36893203883495146, 'Residential': 0.6019417475728155}",0.012217755
+5,TSP - combined,[  31.365556 -109.583611],"{'Shrub-brushland rangeland': 0.9611650485436893, 'Mixed rangeland': 0.009708737864077669, 'Other agricultural land': 0.02912621359223301}",0.022512856
+6,TSP - combined,[  31.374167 -109.734167],"{'Shrub-brushland rangeland': 0.17, 'Cropland and pasture': 0.16, 'Mixed rangeland': 0.67}",0.0093975
+7,TSP - combined,[  31.351944 -109.582222],"{'Shrub-brushland rangeland': 0.5, 'Industrial': 0.5}",0.007930732
+8,TSP - combined,[  31.349733 -109.539695],"{'Commercial and Services': 0.31, 'Residential': 0.69}",0.0034041669999999996
+9,TSP - combined,[  31.553333 -110.300278],"{'Commercial and Services': 0.43, 'Residential': 0.23, 'Other urban or built-up land': 0.28, 'Mixed rangeland': 0.03, 'Transitional areas': 0.03}",0.005967208999999999
+10,TSP - combined,[  35.198889 -111.646111],"{'Mixed urban or built-up land': 0.8, 'Residential': 0.2}",0.004566667
+11,TSP - combined,[  35.199179 -111.647939],"{'Mixed urban or built-up land': 0.79, 'Residential': 0.21}",0.00433913
+12,TSP - combined,[  36.928056 -111.455556],"{'Mixed rangeland': 0.5882352941176471, 'Strip mines, quarries and gravel pits': 0.11764705882352941, 'Commercial and Services': 0.06470588235294118, 'Residential': 0.17058823529411765, 'Transportation, communications and services': 0.03529411764705882, 'Transitional areas': 0.023529411764705882}",0.0040999999999999995
+13,TSP - combined,[  36.055261 -112.122113],"{'Commercial and Services': 0.0196078431372549, 'Evergreen forest land': 0.9803921568627451}",0.008365072000000001
+14,TSP - combined,[  36.080539 -112.155726],"{'Shrub-brushland rangeland': 0.93, 'Evergreen forest land': 0.07}",0.000177052
+15,TSP - combined,[  33.028676 -110.809551],{'Shrub-brushland rangeland': 1.0},0.0046913039999999994
+16,TSP - combined,[  33.006179 -110.785797],"{'Shrub-brushland rangeland': 0.25, 'Industrial': 0.09, 'Residential': 0.66}",0.005194737999999999
+17,TSP - combined,[  33.385278 -110.866389],{'Shrub-brushland rangeland': 1.0},0.004304348
+18,TSP - combined,[  33.397555 -110.874001],"{'Commercial and Services': 0.09550561797752809, 'Shrub-brushland rangeland': 0.5617977528089888, 'Residential': 0.34269662921348315}",0.01125851
+19,TSP - combined,[  32.83388  -109.718611],"{'Commercial and Services': 0.31, 'Residential': 0.34, 'Industrial': 0.25, 'Cropland and pasture': 0.1}",0.014628966
+20,TSP - combined,[  33.010278 -109.363889],"{'Shrub-brushland rangeland': 0.7575757575757576, 'Industrial': 0.24242424242424243}",0.010056800000000001
+21,TSP - combined,[  34.149722 -114.288611],"{'Commercial and Services': 0.24489795918367346, 'Shrub-brushland rangeland': 0.5102040816326531, 'Residential': 0.24489795918367346}",0.00023
+22,TSP - combined,[  33.410046 -111.864864],"{'Commercial and Services': 0.3, 'Residential': 0.31, 'Cropland and pasture': 0.39}",0.014000927
+23,TSP - combined,[  33.41045 -111.86507],"{'Commercial and Services': 0.24, 'Residential': 0.3, 'Cropland and pasture': 0.46}",0.023822732
+24,TSP - combined,[  33.604486 -111.928479],"{'Shrub-brushland rangeland': 0.15, 'Residential': 0.85}",0.008416333000000002
+25,TSP - combined,[  33.47968 -111.91721],"{'Commercial and Services': 0.03, 'Mixed urban or built-up land': 0.22, 'Other urban or built-up land': 0.34, 'Transitional areas': 0.01, 'Residential': 0.4}",0.000813833
+26,TSP - combined,[  33.430602 -111.823752],"{'Commercial and Services': 0.16, 'Residential': 0.39, 'Orchards, groves, vineyards, nurseries..': 0.17, 'Transitional areas': 0.28}",0.013166667
+27,TSP - combined,[  33.405323 -112.074036],"{'Residential': 0.8, 'Mixed urban or built-up land': 0.2}",0.012157367999999998
+28,TSP - combined,[  33.56033 -112.06626],"{'Commercial and Services': 0.13043478260869565, 'Residential': 0.8695652173913043}",0.025747947
+29,TSP - combined,[  33.57454 -112.19196],"{'Commercial and Services': 0.25625, 'Cropland and pasture': 0.625, 'Orchards, groves, vineyards, nurseries..': 0.11875}",0.014699285999999999
+30,TSP - combined,[  33.45793 -112.04601],"{'Commercial and Services': 0.16379310344827586, 'Residential': 0.8362068965517241}",0.010951794
+31,TSP - combined,[  34.48185 -114.33659],"{'Commercial and Services': 0.1, 'Shrub-brushland rangeland': 0.5, 'Transitional areas': 0.155, 'Residential': 0.245}",0.017554129999999998
+32,TSP - combined,[  35.187222 -114.064167],"{'Commercial and Services': 0.07142857142857142, 'Shrub-brushland rangeland': 0.7936507936507936, 'Residential': 0.1349206349206349}",0.009212143000000002
+33,TSP - combined,[  34.959167 -110.331944],"{'Commercial and Services': 0.16, 'Residential': 0.57, 'Cropland and pasture': 0.16, 'Transportation, communications and services': 0.1, 'Mixed rangeland': 0.01}",0.0057925649999999995
+34,TSP - combined,[  34.924722 -110.264167],"{'Transportation, communications and services': 0.12, 'Mixed rangeland': 0.88}",0.015384717
+35,TSP - combined,[  34.2525   -110.036388],"{'Commercial and Services': 0.62, 'Residential': 0.12, 'Cropland and pasture': 0.26}",0.022101169
+36,TSP - combined,[  31.87564  -110.993703],"{'Residential': 0.08, 'Transportation, communications and services': 0.11, 'Transitional areas': 0.76, 'Shrub-brushland rangeland': 0.05}",0.016645167
+37,TSP - combined,[  31.95  -112.801],"{'Commercial and Services': 0.15966386554621848, 'Shrub-brushland rangeland': 0.8403361344537815}",0.013462096
+38,TSP - combined,[  32.222058 -110.974681],"{'Commercial and Services': 0.9607843137254902, 'Residential': 0.0392156862745098}",0.000503333
+39,TSP - combined,[  32.201978 -110.967905],"{'Commercial and Services': 0.31, 'Residential': 0.64, 'Mixed urban or built-up land': 0.05}",0.035613374999999996
+40,TSP - combined,[  32.179244 -110.875644],"{'Commercial and Services': 0.81, 'Residential': 0.13, 'Other urban or built-up land': 0.06}",0.0159202
+41,TSP - combined,[  32.27229  -110.989079],"{'Commercial and Services': 0.0196078431372549, 'Residential': 0.6274509803921569, 'Other urban or built-up land': 0.35294117647058826}",0.01698418
+42,TSP - combined,[  32.247298 -110.836753],"{'Commercial and Services': 0.03, 'Shrub-brushland rangeland': 0.95, 'Strip mines, quarries and gravel pits': 0.01, 'Residential': 0.01}",0.016675237000000002
+43,TSP - combined,[  32.265631 -110.970092],"{'Commercial and Services': 0.01, 'Residential': 0.99}",0.013738554
+44,TSP - combined,[  32.231743 -110.952036],"{'Commercial and Services': 0.98, 'Residential': 0.02}",0.000395088
+45,TSP - combined,[  32.322661 -111.038389],"{'Residential': 0.54, 'Other urban or built-up land': 0.07, 'Cropland and pasture': 0.16, 'Transitional areas': 0.13, 'Shrub-brushland rangeland': 0.1}",0.0005515
+46,TSP - combined,[  32.419167 -111.162222],"{'Residential': 0.01, 'Cropland and pasture': 0.94, 'Transportation, communications and services': 0.05}",0.00019333300000000001
+47,TSP - combined,[  32.382036 -112.857453],"{'Shrub-brushland rangeland': 0.5181347150259067, 'Industrial': 0.17098445595854922, 'Residential': 0.31088082901554404}",0.025069424
+48,TSP - combined,[  32.598611 -110.633611],"{'Commercial and Services': 0.25903614457831325, 'Shrub-brushland rangeland': 0.6024096385542169, 'Other urban or built-up land': 0.012048192771084338, 'Residential': 0.12650602409638553}",0.000805088
+49,TSP - combined,[  32.877583 -111.752222],"{'Commercial and Services': 0.37, 'Residential': 0.13, 'Cropland and pasture': 0.5}",0.031710679000000006
+50,TSP - combined,[  33.025    -111.388056],"{'Commercial and Services': 0.16, 'Shrub-brushland rangeland': 0.27, 'Other urban or built-up land': 0.02, 'Transitional areas': 0.1, 'Residential': 0.45}",0.00090675
+51,TSP - combined,[  33.291389 -111.101667],"{'Commercial and Services': 0.005, 'Shrub-brushland rangeland': 0.5, 'Residential': 0.495}",0.000176034
+52,TSP - combined,[  31.340278 -110.94    ],"{'Commercial and Services': 0.45, 'Residential': 0.55}",0.0008442620000000001
+53,TSP - combined,[  31.337204 -110.936718],"{'Commercial and Services': 0.31, 'Residential': 0.62, 'Null area -- no land use assigned': 0.05, 'Shrub-brushland rangeland': 0.02}",0.000221071
+54,TSP - combined,[  34.582386 -111.824607],{'Shrub-brushland rangeland': 1.0},0.001265862
+55,TSP - combined,[  34.534722 -112.479722],"{'Commercial and Services': 0.07547169811320754, 'Residential': 0.9245283018867925}",0.001517143
+56,TSP - combined,[  34.558611 -112.4825  ],"{'Commercial and Services': 0.68, 'Residential': 0.32}",0.014043322
+57,TSP - combined,[  34.767222 -112.063333],"{'Shrub-brushland rangeland': 0.76, 'Other urban or built-up land': 0.07, 'Residential': 0.17}",0.000582105
+58,TSP - combined,[  35.513486 -113.322198],"{'Commercial and Services': 0.03636363636363636, 'Strip mines, quarries and gravel pits': 0.05454545454545454, 'Evergreen forest land': 0.9090909090909091}",0.0012324999999999999
+59,TSP - combined,[  32.723333 -114.622065],"{'Commercial and Services': 0.9215686274509803, 'Residential': 0.0784313725490196}",0.04619756
+60,TSP - combined,[  37.535833 -121.961823],"{'Commercial and Services': 0.62, 'Residential': 0.35, 'Cropland and pasture': 0.03}",0.033021231
+61,TSP - combined,[  37.682708 -121.770231],"{'Commercial and Services': 0.77, 'Residential': 0.23}",0.0013735
+62,TSP - combined,[  37.87687  -122.266913],"{'Commercial and Services': 0.32, 'Residential': 0.68}",0.000362909
+63,TSP - combined,[  37.886869 -122.027462],"{'Residential': 0.97, 'Evergreen forest land': 0.03}",0.05446360200000001
+64,TSP - combined,[  37.936013 -122.026154],"{'Commercial and Services': 0.6, 'Residential': 0.4}",0.000442075
+65,TSP - combined,[  37.949924 -122.357193],"{'Commercial and Services': 0.0196078431372549, 'Residential': 0.6176470588235294, 'Industrial': 0.3627450980392157}",0.015294231
+66,TSP - combined,[  38.029258 -121.896866],"{'Residential': 0.17, 'Industrial': 0.46, 'Other urban or built-up land': 0.25, 'Nonforested wetland': 0.12}",0.000717736
+67,TSP - combined,[  36.737172 -119.753754],"{'Commercial and Services': 0.63, 'Residential': 0.37}",0.000113148
+68,TSP - combined,[  36.725228 -119.751254],"{'Commercial and Services': 0.46, 'Residential': 0.23, 'Industrial': 0.12, 'Cropland and pasture': 0.19}",0.000358
+69,TSP - combined,[  32.664226 -115.506384],"{'Commercial and Services': 0.13, 'Shrub-brushland rangeland': 0.03, 'Null area -- no land use assigned': 0.68, 'Other urban or built-up land': 0.09, 'Transportation, communications and services': 0.07}",0.001149138
+70,TSP - combined,[  32.793389 -115.563051],"{'Commercial and Services': 0.5545454545454546, 'Residential': 0.44545454545454544}",0.012916576
+71,TSP - combined,[  35.624678 -117.670897],"{'Commercial and Services': 0.34517766497461927, 'Shrub-brushland rangeland': 0.5076142131979695, 'Other urban or built-up land': 0.03553299492385787, 'Residential': 0.1116751269035533}",0.000967857
+72,TSP - combined,[  35.383014 -118.9726  ],"{'Commercial and Services': 0.24, 'Residential': 0.76}",0.00019709100000000001
+73,TSP - combined,[  35.374959 -119.022602],"{'Commercial and Services': 0.96, 'Herbaceous Rangeland': 0.04}",0.009714489
+74,TSP - combined,[  35.312186 -119.617624],"{'Commercial and Services': 0.0990990990990991, 'Shrub-brushland rangeland': 0.9009009009009009}",0.000443878
+75,TSP - combined,[  35.431068 -119.021767],"{'Residential': 0.6, 'Transitional areas': 0.16, 'Strip mines, quarries and gravel pits': 0.24}",0.00069
+76,TSP - combined,[  35.434679 -119.013434],"{'Commercial and Services': 0.06542056074766354, 'Residential': 0.719626168224299, 'Industrial': 0.102803738317757, 'Transitional areas': 0.11214953271028037}",0.005312351999999999
+77,TSP - combined,[  35.770234 -119.586234],"{'Shrub-brushland rangeland': 0.89, 'Other agricultural land': 0.11}",0.006963209
+78,TSP - combined,[  35.1433   -119.465675],"{'Commercial and Services': 0.12345679012345678, 'Shrub-brushland rangeland': 0.6172839506172839, 'Industrial': 0.05555555555555555, 'Transportation, communications and services': 0.018518518518518517, 'Residential': 0.18518518518518517}",0.000240169
+79,TSP - combined,[  39.0327  -122.92229],"{'Industrial': 0.15, 'Orchards, groves, vineyards, nurseries..': 0.81, 'Transportation, communications and services': 0.04}",0.000214727
+80,TSP - combined,[  33.92899 -118.21071],"{'Commercial and Services': 0.57, 'Residential': 0.43}",0.005335557
+81,TSP - combined,[  33.82376 -118.18921],"{'Commercial and Services': 0.23, 'Residential': 0.44, 'Industrial': 0.27, 'Transportation, communications and services': 0.06}",0.0301175
+82,TSP - combined,[  33.930292 -118.369798],"{'Commercial and Services': 0.03, 'Residential': 0.74, 'Industrial': 0.09, 'Transportation, communications and services': 0.14}",0.0046511370000000005
+83,TSP - combined,[  34.1365  -117.92391],"{'Strip mines, quarries and gravel pits': 0.39, 'Industrial': 0.61}",0.000362833
+84,TSP - combined,[  34.14435 -117.85036],"{'Commercial and Services': 0.11504424778761062, 'Residential': 0.8849557522123894}",0.007021667
+85,TSP - combined,[  34.149451 -118.124515],"{'Commercial and Services': 0.6581196581196581, 'Residential': 0.28205128205128205, 'Transportation, communications and services': 0.05982905982905983}",0.000208393
+86,TSP - combined,[  34.058345 -118.250907],"{'Commercial and Services': 0.3602150537634409, 'Residential': 0.03225806451612903, 'Other urban or built-up land': 0.043010752688172046, 'Transportation, communications and services': 0.5376344086021505, 'Mixed urban or built-up land': 0.026881720430107527}",0.009150385
+87,TSP - combined,[  34.06659 -118.22688],"{'Commercial and Services': 0.015789473684210527, 'Industrial': 0.45789473684210524, 'Transportation, communications and services': 0.5263157894736842}",0.000333036
+88,TSP - combined,[  34.19925 -118.53276],"{'Commercial and Services': 0.4152046783625731, 'Residential': 0.5847953216374269}",0.00911
+89,TSP - combined,[  34.01407 -118.06056],"{'Commercial and Services': 0.12, 'Residential': 0.43, 'Other urban or built-up land': 0.38, 'Transportation, communications and services': 0.07}",0.000225435
+90,TSP - combined,[  34.712206 -118.140073],"{'Commercial and Services': 0.03, 'Residential': 0.26, 'Other urban or built-up land': 0.05, 'Shrub-brushland rangeland': 0.66}",0.011064544999999999
+91,TSP - combined,[  37.97231  -122.520004],"{'Commercial and Services': 0.76, 'Residential': 0.24}",0.016574118000000002
+92,TSP - combined,[  39.435168 -123.80946 ],"{'Commercial and Services': 0.01, 'Residential': 0.49, 'Industrial': 0.26, 'Transportation, communications and services': 0.24}",0.023352857999999997
+93,TSP - combined,[  39.445723 -123.803905],"{'Commercial and Services': 0.32, 'Residential': 0.65, 'Industrial': 0.03}",0.00016
+94,TSP - combined,[  36.697181 -121.633556],"{'Commercial and Services': 0.3271604938271605, 'Residential': 0.05555555555555555, 'Cropland and pasture': 0.6172839506172839}",0.00010611400000000002
+95,TSP - combined,[  38.310942 -122.296189],"{'Commercial and Services': 0.2, 'Residential': 0.8}",0.0009029309999999999
+96,TSP - combined,[  33.821353 -117.91427 ],"{'Commercial and Services': 0.1864406779661017, 'Residential': 0.6610169491525424, 'Other urban or built-up land': 0.09322033898305085, 'Transportation, communications and services': 0.059322033898305086}",0.04295492000000001
+97,TSP - combined,[  33.656131 -117.930613],"{'Commercial and Services': 0.2169811320754717, 'Residential': 0.7264150943396226, 'Other urban or built-up land': 0.05660377358490566}",0.0004296
+98,TSP - combined,[  33.627244 -117.691163],"{'Commercial and Services': 0.53, 'Residential': 0.23, 'Orchards, groves, vineyards, nurseries..': 0.24}",0.000474533
+99,TSP - combined,[  33.92513 -117.95264],"{'Commercial and Services': 0.05263157894736842, 'Residential': 0.868421052631579, 'Other urban or built-up land': 0.07894736842105263}",0.004290833
+100,TSP - combined,[  33.750573 -117.870333],"{'Commercial and Services': 0.89, 'Residential': 0.11}",0.000105
+101,TSP - combined,[  33.795849 -118.03284 ],"{'Commercial and Services': 0.07920792079207921, 'Residential': 0.45544554455445546, 'Other urban or built-up land': 0.46534653465346537}",0.000232105
+102,TSP - combined,[  33.927794 -116.874466],"{'Commercial and Services': 0.23, 'Residential': 0.13, 'Industrial and commercial complexes': 0.3, 'Other urban or built-up land': 0.21, 'Transportation, communications and services': 0.13}",0.000162778
+103,TSP - combined,[  33.708355 -116.221118],"{'Residential': 0.05, 'Cropland and pasture': 0.47, 'Orchards, groves, vineyards, nurseries..': 0.48}",9.620700000000001e-05
+104,TSP - combined,[  33.85275 -116.54101],"{'Shrub-brushland rangeland': 0.5, 'Other urban or built-up land': 0.01, 'Residential': 0.4, 'Mixed urban or built-up land': 0.09}",0.013632499999999999
+105,TSP - combined,[  33.94603 -117.40063],"{'Commercial and Services': 0.46, 'Residential': 0.53, 'Transportation, communications and services': 0.01}",0.011963393
+106,TSP - combined,[  33.99958 -117.41601],"{'Commercial and Services': 0.30434782608695654, 'Residential': 0.6521739130434783, 'Orchards, groves, vineyards, nurseries..': 0.043478260869565216}",0.000239661
+107,TSP - combined,[  38.667126 -121.251338],"{'Commercial and Services': 0.25, 'Residential': 0.36, 'Cropland and pasture': 0.13, 'Transportation, communications and services': 0.17, 'Mixed urban or built-up land': 0.09}",0.0009019669999999999
+108,TSP - combined,[  38.585183 -121.494677],"{'Commercial and Services': 0.58, 'Mixed urban or built-up land': 0.21, 'Industrial': 0.21}",0.020164407000000002
+109,TSP - combined,[  38.556326 -121.458499],"{'Commercial and Services': 0.14864864864864866, 'Residential': 0.7635135135135135, 'Mixed urban or built-up land': 0.08783783783783784}",0.015943647
+110,TSP - combined,[  34.141946 -116.059169],"{'Commercial and Services': 0.02564102564102564, 'Shrub-brushland rangeland': 0.6410256410256411, 'Residential': 0.3333333333333333}",0.020684730999999998
+111,TSP - combined,[  34.895007 -117.024484],"{'Commercial and Services': 0.31, 'Residential': 0.54, 'Other urban or built-up land': 0.04, 'Shrub-brushland rangeland': 0.11}",0.000380714
+112,TSP - combined,[  34.2431  -117.27235],"{'Commercial and Services': 0.1360544217687075, 'Residential': 0.6802721088435374, 'Reservoirs': 0.1836734693877551}",0.00036661
+113,TSP - combined,[  34.106122 -117.481994],"{'Commercial and Services': 0.1092436974789916, 'Residential': 0.6050420168067226, 'Other urban or built-up land': 0.1092436974789916, 'Orchards, groves, vineyards, nurseries..': 0.17647058823529413}",0.00025
+114,TSP - combined,[  34.06668 -117.15087],"{'Residential': 0.26, 'Orchards, groves, vineyards, nurseries..': 0.74}",0.0005466210000000001
+115,TSP - combined,[  34.054456 -117.588664],"{'Other agricultural land': 0.047619047619047616, 'Orchards, groves, vineyards, nurseries..': 0.6285714285714286, 'Transportation, communications and services': 0.3238095238095238}",0.00034610200000000004
+116,TSP - combined,[  34.523329 -117.30449 ],"{'Commercial and Services': 0.28, 'Residential': 0.67, 'Shrub-brushland rangeland': 0.05}",0.011374307
+117,TSP - combined,[  34.102234 -117.286709],"{'Commercial and Services': 0.39, 'Residential': 0.3, 'Industrial': 0.21, 'Other urban or built-up land': 0.1}",0.00057
+118,TSP - combined,[  35.759954 -117.374779],"{'Mixed barren land': 0.22, 'Shrub-brushland rangeland': 0.5, 'Dry salt flats': 0.085, 'Residential': 0.045, 'Industrial': 0.15}",0.000404694
+119,TSP - combined,[  32.79394  -116.961138],"{'Commercial and Services': 0.47, 'Residential': 0.52, 'Industrial': 0.01}",0.0007953330000000001
+120,TSP - combined,[  32.727273 -117.154477],"{'Commercial and Services': 0.17834394904458598, 'Residential': 0.025477707006369428, 'Other urban or built-up land': 0.1910828025477707, 'Transportation, communications and services': 0.6050955414012739}",0.000388772
+121,TSP - combined,[  37.75493  -122.388026],"{'Industrial': 0.62, 'Transportation, communications and services': 0.38}",0.000420328
+122,TSP - combined,[  37.950741 -121.268523],"{'Commercial and Services': 0.1, 'Residential': 0.68, 'Other urban or built-up land': 0.12, 'Mixed urban or built-up land': 0.1}",0.00022930200000000002
+123,TSP - combined,[  38.000479 -121.31717 ],"{'Commercial and Services': 0.40425531914893614, 'Residential': 0.44680851063829785, 'Other urban or built-up land': 0.14893617021276595}",0.000295455
+124,TSP - combined,[  38.021033 -121.336337],"{'Commercial and Services': 0.10714285714285714, 'Residential': 0.8928571428571429}",0.0006393750000000001
+125,TSP - combined,[  35.283864 -120.655171],"{'Commercial and Services': 0.53, 'Residential': 0.47}",0.000706667
+126,TSP - combined,[  35.633303 -120.692671],"{'Commercial and Services': 0.05660377358490566, 'Residential': 0.9339622641509434, 'Orchards, groves, vineyards, nurseries..': 0.009433962264150943}",0.0006545940000000001
+127,TSP - combined,[  37.482934 -122.20337 ],"{'Commercial and Services': 0.5196078431372549, 'Residential': 0.4803921568627451}",0.000299107
+128,TSP - combined,[  34.419997 -119.70069 ],"{'Commercial and Services': 0.78, 'Residential': 0.22}",0.000374426
+129,TSP - combined,[  34.513601 -120.006531],{'Shrub-brushland rangeland': 1.0},0.000241333
+130,TSP - combined,[  34.949422 -120.435164],"{'Commercial and Services': 0.49, 'Residential': 0.51}",0.013086392
+131,TSP - combined,[  37.339666 -121.888575],"{'Commercial and Services': 0.39, 'Residential': 0.21, 'Other urban or built-up land': 0.09, 'Mixed urban or built-up land': 0.31}",0.000361552
+132,TSP - combined,[  38.102507 -122.237976],"{'Commercial and Services': 0.37, 'Residential': 0.63}",0.003963935
+133,TSP - combined,[  38.442412 -122.713598],"{'Commercial and Services': 0.8888888888888888, 'Residential': 0.07407407407407407, 'Other urban or built-up land': 0.037037037037037035}",0.000117458
+134,TSP - combined,[  37.640763 -120.999378],"{'Commercial and Services': 0.97, 'Industrial': 0.01, 'Transportation, communications and services': 0.02}",0.000199608
+135,TSP - combined,[  37.985757 -120.384083],{'Residential': 1.0},6.892899999999999e-05
+136,TSP - combined,[  37.983813 -120.382138],"{'Residential': 0.99, 'Evergreen forest land': 0.01}",0.000338889
+137,TSP - combined,[  34.278058 -118.685924],"{'Commercial and Services': 0.3, 'Residential': 0.09, 'Other urban or built-up land': 0.01, 'Cropland and pasture': 0.6}",0.000559322
+138,TSP - combined,[ 41.180375 -73.19289 ],"{'Commercial and Services': 0.58, 'Residential': 0.28, 'Transportation, communications and services': 0.14}",0.000414815
+139,TSP - combined,[ 41.310833 -72.916944],"{'Mixed urban or built-up land': 0.5904761904761905, 'Industrial': 0.047619047619047616, 'Transportation, communications and services': 0.24761904761904763, 'Residential': 0.11428571428571428}",0.000907018
+140,TSP - combined,[ 41.550556 -73.043611],"{'Commercial and Services': 0.31, 'Residential': 0.06, 'Industrial': 0.42, 'Other urban or built-up land': 0.1, 'Transportation, communications and services': 0.11}",0.00024117600000000012
+141,TSP - combined,[ 39.757891 -75.546034],"{'Commercial and Services': 0.11, 'Residential': 0.6, 'Other urban or built-up land': 0.19, 'Transportation, communications and services': 0.1}",0.0006966670000000001
+142,TSP - combined,[ 39.812335 -75.455196],"{'Commercial and Services': 0.16, 'Residential': 0.27, 'Industrial': 0.15, 'Transportation, communications and services': 0.41, 'Transitional areas': 0.01}",0.0005732140000000001
+143,TSP - combined,[ 26.083143 -80.237586],"{'Commercial and Services': 0.99, 'Cropland and pasture': 0.01}",0.000577778
+144,TSP - combined,[ 30.344118 -81.661508],"{'Commercial and Services': 0.21, 'Residential': 0.61, 'Other urban or built-up land': 0.18}",0.00021964299999999997
+145,TSP - combined,[ 27.719475 -82.432594],"{'Residential': 0.74, 'Forested wetland': 0.09, 'Cropland and pasture': 0.1, 'Other agricultural land': 0.07}",0.000133898
+146,TSP - combined,[ 27.920578 -82.446206],"{'Residential': 0.1437908496732026, 'Bays and estuaries': 0.5490196078431373, 'Transportation, communications and services': 0.20261437908496732, 'Industrial': 0.10457516339869281}",0.00032500000000000004
+147,TSP - combined,[ 27.88669  -82.481206],"{'Commercial and Services': 0.05, 'Residential': 0.53, 'Bays and estuaries': 0.42}",0.009936786
+148,TSP - combined,[ 27.894469 -82.400927],"{'Other agricultural land': 0.28, 'Forested wetland': 0.53, 'Herbaceous Rangeland': 0.19}",0.008831970000000001
+149,TSP - combined,[ 27.955856 -82.371482],"{'Streams and canals': 0.17, 'Industrial and commercial complexes': 0.46, 'Cropland and pasture': 0.11, 'Transportation, communications and services': 0.2, 'Transitional areas': 0.06}",0.009496296000000001
+150,TSP - combined,[ 27.864192 -82.384259],"{'Residential': 0.03, 'Streams and canals': 0.2, 'Industrial': 0.42, 'Herbaceous Rangeland': 0.35}",0.016983265
+151,TSP - combined,[ 27.762806 -82.400927],"{'Residential': 0.37, 'Industrial': 0.1, 'Cropland and pasture': 0.52, 'Evergreen forest land': 0.01}",0.000457143
+152,TSP - combined,[ 27.792805 -82.368148],"{'Commercial and Services': 0.16, 'Cropland and pasture': 0.63, 'Evergreen forest land': 0.21}",0.010150000000000001
+153,TSP - combined,[ 27.947799 -82.457039],{'Commercial and Services': 1.0},0.009405660000000001
+154,TSP - combined,[ 27.928356 -82.454539],"{'Commercial and Services': 0.08854166666666667, 'Residential': 0.390625, 'Bays and estuaries': 0.5208333333333334}",0.010519239
+155,TSP - combined,[ 27.952244 -82.403427],"{'Industrial and commercial complexes': 0.41, 'Transitional areas': 0.59}",0.00042807
+156,TSP - combined,[ 28.019188 -82.121753],"{'Commercial and Services': 0.59, 'Residential': 0.41}",0.009574945999999999
+157,TSP - combined,[ 25.899539 -80.38259 ],"{'Commercial and Services': 0.0196078431372549, 'Cropland and pasture': 0.6862745098039216, 'Transportation, communications and services': 0.27450980392156865, 'Herbaceous Rangeland': 0.0196078431372549}",0.011609678
+158,TSP - combined,[ 25.808709 -80.301995],"{'Commercial and Services': 0.0759493670886076, 'Residential': 0.2911392405063291, 'Transportation, communications and services': 0.6329113924050633}",0.011614695000000001
+159,TSP - combined,[ 25.924539 -80.448388],"{'Commercial and Services': 0.12280701754385964, 'Herbaceous Rangeland': 0.7982456140350878, 'Nonforested wetland': 0.07894736842105263}",0.028931736
+160,TSP - combined,[ 25.709823 -80.29394 ],"{'Commercial and Services': 0.11055276381909548, 'Residential': 0.3869346733668342, 'Transportation, communications and services': 0.5025125628140703}",0.011960713999999999
+161,TSP - combined,[ 25.794222 -80.215556],"{'Commercial and Services': 0.46411483253588515, 'Residential': 0.014354066985645933, 'Industrial': 0.009569377990430622, 'Transportation, communications and services': 0.5119617224880383}",0.020077925
+162,TSP - combined,[ 25.833986 -80.241993],"{'Commercial and Services': 0.055, 'Residential': 0.445, 'Transportation, communications and services': 0.5}",0.007989989
+163,TSP - combined,[ 25.79732  -80.132268],"{'Commercial and Services': 0.9, 'Residential': 0.07, 'Transportation, communications and services': 0.03}",0.015006692000000002
+164,TSP - combined,[ 25.865652 -80.278383],"{'Commercial and Services': 0.06103286384976526, 'Residential': 0.4694835680751174, 'Transportation, communications and services': 0.4694835680751174}",0.0016028169999999999
+165,TSP - combined,[ 25.629826 -80.342275],"{'Deciduous forest land': 0.05, 'Commercial and Services': 0.13, 'Residential': 0.17, 'Other urban or built-up land': 0.36, 'Cropland and pasture': 0.04, 'Transportation, communications and services': 0.25}",0.012710512
+166,TSP - combined,[ 25.471944 -80.482778],{'Residential': 1.0},0.018207555
+167,TSP - combined,[ 25.932593 -80.162824],"{'Commercial and Services': 0.09, 'Residential': 0.91}",0.017000885
+168,TSP - combined,[ 27.784749 -82.659265],"{'Commercial and Services': 0.05555555555555555, 'Residential': 0.7222222222222222, 'Other urban or built-up land': 0.17592592592592593, 'Transportation, communications and services': 0.046296296296296294}",0.000235
+169,TSP - combined,[ 27.785866 -82.739875],"{'Commercial and Services': 0.3925233644859813, 'Residential': 0.6074766355140186}",8e-05
+170,TSP - combined,[ 27.8928   -82.791492],"{'Residential': 0.8620689655172413, 'Orchards, groves, vineyards, nurseries..': 0.13793103448275862}",0.014043474000000002
+171,TSP - combined,[ 33.752625 -84.383325],"{'Commercial and Services': 0.48, 'Transportation, communications and services': 0.52}",0.000145556
+172,TSP - combined,[ 32.483543 -84.980977],"{'Commercial and Services': 0.38, 'Residential': 0.56, 'Mixed urban or built-up land': 0.06}",0.00016916700000000002
+173,TSP - combined,[ 39.93449  -91.402372],"{'Commercial and Services': 0.9, 'Residential': 0.1}",0.012121000000000002
+174,TSP - combined,[ 41.328369 -89.295088],"{'Residential': 0.34, 'Industrial': 0.34, 'Deciduous forest land': 0.24, 'Cropland and pasture': 0.08}",0.00037866700000000007
+175,TSP - combined,[ 40.085309 -88.24116 ],"{'Commercial and Services': 0.4, 'Cropland and pasture': 0.49, 'Orchards, groves, vineyards, nurseries..': 0.11}",0.00021
+176,TSP - combined,[ 41.955865 -87.669223],"{'Commercial and Services': 0.1, 'Residential': 0.9}",0.00031
+177,TSP - combined,[ 41.689756 -87.635604],"{'Commercial and Services': 0.014778325123152709, 'Residential': 0.49261083743842365, 'Transportation, communications and services': 0.49261083743842365}",0.000270833
+178,TSP - combined,[ 41.904477 -87.637275],"{'Commercial and Services': 0.75, 'Residential': 0.25}",0.000466667
+179,TSP - combined,[ 41.746701 -87.650606],"{'Commercial and Services': 0.0196078431372549, 'Residential': 0.49019607843137253, 'Transportation, communications and services': 0.49019607843137253}",0.000279167
+180,TSP - combined,[ 41.738091 -87.573103],"{'Commercial and Services': 0.61, 'Residential': 0.29, 'Transportation, communications and services': 0.1}",0.000314167
+181,TSP - combined,[ 41.652813 -87.602546],"{'Commercial and Services': 0.12, 'Residential': 0.18, 'Deciduous forest land': 0.2, 'Transportation, communications and services': 0.5}",0.0017541669999999998
+182,TSP - combined,[ 41.780032 -87.776444],"{'Commercial and Services': 0.12663755458515283, 'Residential': 0.4366812227074236, 'Transportation, communications and services': 0.4366812227074236}",0.0005241670000000001
+183,TSP - combined,[ 41.687165 -87.539315],"{'Commercial and Services': 0.2, 'Residential': 0.44, 'Industrial': 0.22, 'Cropland and pasture': 0.14}",0.0005218180000000001
+184,TSP - combined,[ 41.915865 -87.699778],"{'Commercial and Services': 0.06976744186046512, 'Residential': 0.46511627906976744, 'Transportation, communications and services': 0.46511627906976744}",0.00026000000000000003
+185,TSP - combined,[ 41.716702 -87.55949 ],"{'Commercial and Services': 0.25, 'Residential': 0.6, 'Industrial': 0.15}",0.000381
+186,TSP - combined,[ 41.697813 -87.531711],{'Residential': 1.0},0.00047272700000000015
+187,TSP - combined,[ 41.755832 -87.54535 ],"{'Commercial and Services': 0.04, 'Bays and estuaries': 0.23, 'Other urban or built-up land': 0.72, 'Industrial': 0.01}",0.0008158330000000001
+188,TSP - combined,[ 41.894477 -87.62033 ],"{'Commercial and Services': 0.9, 'Bays and estuaries': 0.04, 'Transportation, communications and services': 0.06}",0.00038500000000000003
+189,TSP - combined,[ 41.698924 -87.561989],"{'Residential': 0.4, 'Industrial': 0.53, 'Nonforested wetland': 0.04, 'Strip mines, quarries and gravel pits': 0.03}",0.000255
+190,TSP - combined,[ 41.907811 -87.644221],"{'Commercial and Services': 0.57, 'Residential': 0.29, 'Industrial': 0.14}",0.00013000000000000002
+191,TSP - combined,[ 41.545034 -87.694491],"{'Commercial and Services': 0.3, 'Residential': 0.21, 'Other urban or built-up land': 0.37, 'Transitional areas': 0.12}",0.000465833
+192,TSP - combined,[ 41.942808 -87.868952],"{'Commercial and Services': 0.2019704433497537, 'Residential': 0.3054187192118227, 'Transportation, communications and services': 0.49261083743842365}",0.000345
+193,TSP - combined,[ 41.888365 -87.798392],"{'Commercial and Services': 0.4444444444444444, 'Residential': 0.07246376811594203, 'Transportation, communications and services': 0.4830917874396135}",0.00028000000000000003
+194,TSP - combined,[ 41.605312 -87.649213],"{'Commercial and Services': 0.02, 'Residential': 0.48, 'Transportation, communications and services': 0.5}",0.000692667
+195,TSP - combined,[ 41.868087 -87.899784],"{'Commercial and Services': 0.35, 'Residential': 0.045, 'Other urban or built-up land': 0.105, 'Transportation, communications and services': 0.5}",0.000421667
+196,TSP - combined,[ 41.615038 -87.71556 ],"{'Commercial and Services': 0.22, 'Deciduous forest land': 0.06, 'Cropland and pasture': 0.29, 'Residential': 0.43}",0.0006455
+197,TSP - combined,[ 41.662109 -87.696467],"{'Commercial and Services': 0.305, 'Residential': 0.12, 'Cropland and pasture': 0.04, 'Transportation, communications and services': 0.5, 'Strip mines, quarries and gravel pits': 0.035}",0.00038
+198,TSP - combined,[ 41.648921 -87.856998],"{'Commercial and Services': 0.35, 'Deciduous forest land': 0.57, 'Other urban or built-up land': 0.08}",8.4286e-05
+199,TSP - combined,[ 41.519479 -87.682824],"{'Commercial and Services': 0.16, 'Residential': 0.24, 'Industrial': 0.26, 'Other urban or built-up land': 0.34}",0.000252
+200,TSP - combined,[ 41.892809 -87.814226],"{'Commercial and Services': 0.085, 'Residential': 0.415, 'Transportation, communications and services': 0.5}",0.014665667
+201,TSP - combined,[ 41.605868 -87.542543],"{'Other urban or built-up land': 0.77, 'Residential': 0.21, 'Deciduous forest land': 0.02}",0.000211429
+202,TSP - combined,[ 41.775589 -87.751998],"{'Residential': 0.18, 'Industrial': 0.27, 'Transportation, communications and services': 0.55}",0.000562667
+203,TSP - combined,[ 41.782766 -87.805377],"{'Commercial and Services': 0.3253012048192771, 'Residential': 0.27309236947791166, 'Transportation, communications and services': 0.40160642570281124}",0.000551167
+204,TSP - combined,[ 41.514757 -87.645044],"{'Commercial and Services': 0.64, 'Residential': 0.36}",0.000467533
+205,TSP - combined,[ 41.859754 -87.750334],"{'Residential': 0.495, 'Industrial': 0.005, 'Transportation, communications and services': 0.5}",0.000385334
+206,TSP - combined,[ 41.955584 -88.137572],"{'Strip mines, quarries and gravel pits': 0.42, 'Cropland and pasture': 0.16, 'Transitional areas': 0.42}",0.0005335
+207,TSP - combined,[ 42.002532 -87.669779],"{'Commercial and Services': 0.7428571428571429, 'Residential': 0.2571428571428571}",0.0007692329999999999
+208,TSP - combined,[ 42.081694 -87.982849],"{'Commercial and Services': 0.2805755395683453, 'Residential': 0.7194244604316546}",0.021234766000000002
+209,TSP - combined,[ 42.022253 -87.750894],"{'Commercial and Services': 0.64, 'Residential': 0.36}",0.000532
+210,TSP - combined,[ 42.074472 -87.806175],"{'Commercial and Services': 0.49, 'Residential': 0.51}",0.001036428
+211,TSP - combined,[ 42.047807 -87.798119],"{'Commercial and Services': 0.51, 'Residential': 0.49}",0.000452667
+212,TSP - combined,[ 42.042529 -87.838397],"{'Commercial and Services': 0.6592592592592592, 'Residential': 0.32592592592592595, 'Other urban or built-up land': 0.014814814814814815}",0.000560818
+213,TSP - combined,[ 42.060029 -87.752561],"{'Commercial and Services': 0.19, 'Residential': 0.37, 'Industrial': 0.39, 'Transportation, communications and services': 0.05}",0.00029562500000000004
+214,TSP - combined,[ 42.078085 -87.702838],"{'Commercial and Services': 0.46, 'Residential': 0.54}",3.5e-06
+215,TSP - combined,[ 42.101417 -87.748673],"{'Commercial and Services': 0.63, 'Residential': 0.31, 'Other urban or built-up land': 0.06}",0.000290818
+216,TSP - combined,[ 42.02114  -87.907566],"{'Commercial and Services': 0.02, 'Residential': 0.29, 'Industrial': 0.69}",0.000335834
+217,TSP - combined,[ 42.044474 -87.685892],"{'Commercial and Services': 0.62, 'Residential': 0.38}",0.018198451000000004
+218,TSP - combined,[ 42.095026 -88.105908],{'Residential': 1.0},0.0005217830000000001
+219,TSP - combined,[ 39.019209 -87.697804],{'Cropland and pasture': 1.0},0.00037730399999999996
+220,TSP - combined,[ 41.965862 -88.785089],{'Cropland and pasture': 1.0},0.000249167
+221,TSP - combined,[ 41.932529 -87.994511],"{'Commercial and Services': 0.68, 'Residential': 0.32}",0.011310714000000001
+222,TSP - combined,[ 41.95753  -87.938955],"{'Commercial and Services': 0.35, 'Residential': 0.56, 'Industrial': 0.09}",0.000329167
+223,TSP - combined,[ 41.751975 -87.98395 ],"{'Commercial and Services': 0.07, 'Residential': 0.6, 'Other urban or built-up land': 0.18, 'Transitional areas': 0.15}",0.000305
+224,TSP - combined,[ 41.901419 -87.938953],"{'Commercial and Services': 0.3548387096774194, 'Residential': 0.6451612903225806}",0.00028000000000000003
+225,TSP - combined,[ 41.886139 -88.204516],"{'Commercial and Services': 0.6310679611650486, 'Residential': 0.36893203883495146}",0.011507238
+226,TSP - combined,[ 41.863918 -88.104235],"{'Commercial and Services': 0.63, 'Residential': 0.37}",0.000271778
+227,TSP - combined,[ 41.77253  -88.150623],"{'Commercial and Services': 0.79, 'Residential': 0.19, 'Deciduous forest land': 0.02}",0.000430566
+228,TSP - combined,[ 41.914472 -88.241185],"{'Cropland and pasture': 0.5555555555555556, 'Industrial': 0.06111111111111111, 'Other urban or built-up land': 0.011111111111111112, 'Transportation, communications and services': 0.37222222222222223}",0.012086338999999998
+229,TSP - combined,[ 39.116153 -88.540049],"{'Commercial and Services': 0.075, 'Residential': 0.425, 'Cropland and pasture': 0.5}",0.000338833
+230,TSP - combined,[ 37.727273 -89.218139],"{'Commercial and Services': 0.205, 'Residential': 0.29, 'Industrial': 0.005, 'Cropland and pasture': 0.5}",0.020989685
+231,TSP - combined,[ 38.322827 -88.914232],"{'Commercial and Services': 0.125, 'Cropland and pasture': 0.5, 'Other urban or built-up land': 0.075, 'Reservoirs': 0.09, 'Residential': 0.21}",0.012072222
+232,TSP - combined,[ 42.415286 -90.428461],"{'Commercial and Services': 0.18877551020408162, 'Residential': 0.3010204081632653, 'Cropland and pasture': 0.5102040816326531}",0.012704917999999999
+233,TSP - combined,[ 42.039193 -88.284801],"{'Commercial and Services': 0.95, 'Residential': 0.05}",0.000298214
+234,TSP - combined,[ 42.05697 -88.26869],"{'Commercial and Services': 0.2537313432835821, 'Residential': 0.746268656716418}",0.000221
+235,TSP - combined,[ 41.14031  -87.854764],"{'Commercial and Services': 0.04, 'Residential': 0.75, 'Industrial': 0.2, 'Cropland and pasture': 0.01}",0.000336712
+236,TSP - combined,[ 40.946149 -90.370684],"{'Commercial and Services': 0.95, 'Residential': 0.03, 'Other urban or built-up land': 0.01, 'Transportation, communications and services': 0.01}",0.000629057
+237,TSP - combined,[ 41.346145 -88.83591 ],"{'Commercial and Services': 0.41, 'Residential': 0.35, 'Reservoirs': 0.24}",0.024183286
+238,TSP - combined,[ 42.374466 -87.883406],"{'Commercial and Services': 0.3, 'Residential': 0.7}",0.013691803
+239,TSP - combined,[ 42.386706 -87.841406],"{'Commercial and Services': 0.51, 'Residential': 0.49}",0.014632458999999999
+240,TSP - combined,[ 42.27419  -87.847014],"{'Residential': 0.94, 'Cropland and pasture': 0.06}",0.011381667
+241,TSP - combined,[ 42.363633 -87.838682],"{'Commercial and Services': 0.35658914728682173, 'Residential': 0.4186046511627907, 'Other urban or built-up land': 0.2248062015503876}",0.013659
+242,TSP - combined,[ 42.273912 -88.195639],"{'Commercial and Services': 0.23, 'Residential': 0.54, 'Cropland and pasture': 0.12, 'Lakes': 0.11}",0.011134426
+243,TSP - combined,[ 39.859481 -88.924799],"{'Commercial and Services': 0.195, 'Residential': 0.27, 'Cropland and pasture': 0.5, 'Transportation, communications and services': 0.035}",0.00045463000000000003
+244,TSP - combined,[ 39.863093 -88.948411],"{'Commercial and Services': 0.0825242718446602, 'Residential': 0.3883495145631068, 'Other urban or built-up land': 0.043689320388349516, 'Cropland and pasture': 0.4854368932038835}",0.001046667
+245,TSP - combined,[ 39.82587  -88.944799],"{'Reservoirs': 0.265, 'Other urban or built-up land': 0.105, 'Cropland and pasture': 0.5, 'Residential': 0.13}",0.000469107
+246,TSP - combined,[ 39.876148 -88.935356],"{'Commercial and Services': 0.5, 'Cropland and pasture': 0.5}",0.013420339000000002
+247,TSP - combined,[ 38.670327 -89.988992],"{'Commercial and Services': 0.57, 'Residential': 0.43}",0.000322787
+248,TSP - combined,[ 38.890881 -90.18511 ],"{'Industrial': 0.33, 'Reservoirs': 0.24, 'Commercial and Services': 0.17, 'Residential': 0.07, 'Streams and canals': 0.03, 'Other urban or built-up land': 0.16}",0.00040569
+249,TSP - combined,[ 38.901437 -90.147331],"{'Commercial and Services': 0.2753623188405797, 'Residential': 0.7246376811594203}",0.00046016899999999996
+250,TSP - combined,[ 38.695328 -90.139553],{'Industrial': 1.0},0.000274464
+251,TSP - combined,[ 38.694438 -90.153954],"{'Commercial and Services': 0.07, 'Mixed urban or built-up land': 0.31, 'Industrial': 0.59, 'Residential': 0.03}",0.00041384
+252,TSP - combined,[ 38.710883 -90.165109],"{'Commercial and Services': 0.07, 'Residential': 0.67, 'Cropland and pasture': 0.26}",0.00016
+253,TSP - combined,[ 38.692828 -90.127052],"{'Industrial': 0.63, 'Cropland and pasture': 0.01, 'Nonforested wetland': 0.36}",0.013744179
+254,TSP - combined,[ 38.722828 -90.117608],"{'Commercial and Services': 0.09401709401709402, 'Residential': 0.7521367521367521, 'Other urban or built-up land': 0.017094017094017096, 'Mixed urban or built-up land': 0.13675213675213677}",0.00031704899999999997
+255,TSP - combined,[ 38.700606 -90.122052],"{'Commercial and Services': 0.03, 'Residential': 0.4, 'Industrial': 0.57}",0.012038197000000002
+256,TSP - combined,[ 38.70255  -90.150942],"{'Commercial and Services': 0.7, 'Mixed urban or built-up land': 0.04, 'Industrial': 0.17, 'Residential': 0.09}",0.00031339000000000003
+257,TSP - combined,[ 38.704534 -90.139675],"{'Commercial and Services': 0.15, 'Residential': 0.79, 'Industrial': 0.06}",0.013467705000000002
+258,TSP - combined,[ 38.703106 -90.118164],"{'Commercial and Services': 0.15, 'Residential': 0.43, 'Industrial': 0.18, 'Cropland and pasture': 0.24}",0.00024065599999999998
+259,TSP - combined,[ 38.793341 -90.039762],"{'Mixed urban or built-up land': 0.18699186991869918, 'Cropland and pasture': 0.8130081300813008}",0.013122950999999999
+260,TSP - combined,[ 38.816716 -90.202054],"{'Cropland and pasture': 0.93, 'Industrial': 0.05, 'Reservoirs': 0.02}",0.012517935
+261,TSP - combined,[ 38.860669 -90.105851],"{'Industrial': 0.19, 'Reservoirs': 0.14, 'Mixed urban or built-up land': 0.15, 'Commercial and Services': 0.15, 'Residential': 0.17, 'Deciduous forest land': 0.16, 'Cropland and pasture': 0.04}",0.01212541
+262,TSP - combined,[ 42.221442 -88.242207],"{'Other agricultural land': 0.05, 'Deciduous forest land': 0.13, 'Commercial and Services': 0.4, 'Residential': 0.28, 'Other urban or built-up land': 0.02, 'Cropland and pasture': 0.12}",0.012943887
+263,TSP - combined,[ 42.238356 -88.324529],"{'Commercial and Services': 0.3584905660377358, 'Residential': 0.6320754716981132, 'Cropland and pasture': 0.009433962264150943}",0.000307833
+264,TSP - combined,[ 40.483369 -89.004244],"{'Commercial and Services': 0.3, 'Residential': 0.51, 'Transportation, communications and services': 0.19}",0.013031431
+265,TSP - combined,[ 40.009492 -89.850388],"{'Commercial and Services': 0.085, 'Residential': 0.4, 'Deciduous forest land': 0.015, 'Cropland and pasture': 0.5}",0.000154
+266,TSP - combined,[ 38.44172  -90.200113],"{'Industrial': 0.012658227848101266, 'Reservoirs': 0.016877637130801686, 'Commercial and Services': 0.14345991561181434, 'Residential': 0.38396624472573837, 'Other urban or built-up land': 0.02109704641350211, 'Cropland and pasture': 0.4219409282700422}",0.010896552
+267,TSP - combined,[ 38.330609 -90.159834],"{'Commercial and Services': 0.08860759493670886, 'Residential': 0.22784810126582278, 'Cropland and pasture': 0.6329113924050633, 'Mixed urban or built-up land': 0.05063291139240506}",0.012147058
+268,TSP - combined,[ 40.697538 -89.586486],"{'Commercial and Services': 0.74, 'Residential': 0.2, 'Transportation, communications and services': 0.06}",0.011491454000000002
+269,TSP - combined,[ 40.675594 -89.619543],"{'Commercial and Services': 0.22772277227722773, 'Residential': 0.7722772277227723}",0.011665574000000001
+270,TSP - combined,[ 40.788926 -89.619264],"{'Commercial and Services': 0.95, 'Cropland and pasture': 0.05}",0.016217778
+271,TSP - combined,[ 40.697816 -89.618155],"{'Commercial and Services': 0.46, 'Residential': 0.54}",0.017912592
+272,TSP - combined,[ 41.115592 -89.368978],"{'Commercial and Services': 0.35, 'Residential': 0.35, 'Cropland and pasture': 0.3}",0.015118644
+273,TSP - combined,[ 41.514478 -90.440409],"{'Commercial and Services': 0.185, 'Residential': 0.315, 'Transportation, communications and services': 0.5}",0.015224651
+274,TSP - combined,[ 41.506701 -90.464854],"{'Residential': 0.5, 'Transportation, communications and services': 0.5}",0.011488426000000001
+275,TSP - combined,[ 41.452255 -90.56708 ],"{'Commercial and Services': 0.29, 'Mixed urban or built-up land': 0.4, 'Cropland and pasture': 0.03, 'Reservoirs': 0.03, 'Residential': 0.25}",0.018534892
+276,TSP - combined,[ 41.487256 -90.485689],"{'Commercial and Services': 0.15254237288135594, 'Residential': 0.423728813559322, 'Transportation, communications and services': 0.423728813559322}",0.011750603
+277,TSP - combined,[ 41.5092   -90.580137],"{'Commercial and Services': 0.48, 'Residential': 0.5, 'Transportation, communications and services': 0.02}",0.013721459
+278,TSP - combined,[ 41.504201 -90.513745],"{'Commercial and Services': 0.18, 'Residential': 0.82}",0.012862333
+279,TSP - combined,[ 41.5092   -90.577359],"{'Commercial and Services': 0.6, 'Residential': 0.39, 'Transportation, communications and services': 0.01}",0.013458167000000002
+280,TSP - combined,[ 38.512828 -89.984272],"{'Commercial and Services': 0.84, 'Residential': 0.16}",0.011689147000000002
+281,TSP - combined,[ 38.612034 -90.160477],"{'Commercial and Services': 0.11650485436893204, 'Residential': 0.7669902912621359, 'Transportation, communications and services': 0.08737864077669903, 'Transitional areas': 0.02912621359223301}",0.014923913
+282,TSP - combined,[ 38.57144 -90.16261],"{'Residential': 0.31, 'Other urban or built-up land': 0.11, 'Cropland and pasture': 0.08, 'Transportation, communications and services': 0.5}",0.012455738000000001
+283,TSP - combined,[ 40.664482 -89.576487],"{'Commercial and Services': 0.05, 'Residential': 0.4, 'Industrial': 0.54, 'Transportation, communications and services': 0.01}",0.010201923
+284,TSP - combined,[ 40.569206 -89.644825],"{'Commercial and Services': 0.57, 'Residential': 0.43}",0.015908696
+285,TSP - combined,[ 41.776698 -89.710941],"{'Commercial and Services': 0.3, 'Residential': 0.25, 'Cropland and pasture': 0.45}",0.011810000000000001
+286,TSP - combined,[ 41.788087 -89.704276],"{'Commercial and Services': 0.22, 'Residential': 0.24, 'Industrial': 0.46, 'Reservoirs': 0.06, 'Cropland and pasture': 0.02}",0.000207241
+287,TSP - combined,[ 41.446146 -87.626986],"{'Commercial and Services': 0.4, 'Residential': 0.6}",0.013242549000000001
+288,TSP - combined,[ 41.418923 -87.736712],"{'Residential': 0.31125827814569534, 'Other urban or built-up land': 0.026490066225165563, 'Cropland and pasture': 0.6622516556291391}",0.016807392
+289,TSP - combined,[ 41.533366 -87.88533 ],"{'Commercial and Services': 0.12299465240641712, 'Residential': 0.3422459893048128, 'Cropland and pasture': 0.5347593582887701}",0.011459016
+290,TSP - combined,[ 41.550864 -88.090059],"{'Residential': 0.56, 'Industrial': 0.19, 'Other urban or built-up land': 0.25}",0.012089130000000002
+291,TSP - combined,[ 41.538364 -88.045614],"{'Commercial and Services': 0.23, 'Residential': 0.77}",0.013074902000000001
+292,TSP - combined,[ 41.530309 -88.085337],"{'Commercial and Services': 0.73, 'Residential': 0.2, 'Streams and canals': 0.07}",0.017421739000000002
+293,TSP - combined,[ 41.501698 -88.180339],"{'Commercial and Services': 0.3967391304347826, 'Cropland and pasture': 0.5434782608695652, 'Deciduous forest land': 0.059782608695652176}",0.019589002
+294,TSP - combined,[ 41.505031 -88.068669],"{'Commercial and Services': 0.08, 'Residential': 0.5, 'Industrial': 0.26, 'Deciduous forest land': 0.15, 'Strip mines, quarries and gravel pits': 0.01}",0.012829796000000001
+295,TSP - combined,[ 41.52642  -88.082837],"{'Commercial and Services': 0.89, 'Streams and canals': 0.11}",0.000256452
+296,TSP - combined,[ 41.526885 -88.116474],"{'Commercial and Services': 0.45, 'Residential': 0.46, 'Industrial': 0.09}",0.000328667
+297,TSP - combined,[ 41.30281  -88.152836],"{'Commercial and Services': 0.047619047619047616, 'Reservoirs': 0.2761904761904762, 'Other urban or built-up land': 0.24761904761904763, 'Cropland and pasture': 0.42857142857142855}",0.000248333
+298,TSP - combined,[ 41.506698 -88.115892],"{'Residential': 0.44, 'Industrial': 0.39, 'Transitional areas': 0.17}",0.014515529000000001
+299,TSP - combined,[ 41.279754 -88.221728],"{'Residential': 0.01, 'Cropland and pasture': 0.99}",0.00030296300000000006
+300,TSP - combined,[ 41.614474 -88.19562 ],"{'Commercial and Services': 0.31, 'Residential': 0.31, 'Cropland and pasture': 0.36, 'Transitional areas': 0.02}",0.00029
+301,TSP - combined,[ 41.592253 -88.048115],"{'Commercial and Services': 0.24, 'Residential': 0.63, 'Other urban or built-up land': 0.13}",0.012858431
+302,TSP - combined,[ 41.658642 -88.086173],"{'Commercial and Services': 0.34, 'Residential': 0.62, 'Cropland and pasture': 0.04}",0.000285
+303,TSP - combined,[ 37.728106 -88.953682],"{'Industrial': 0.02, 'Commercial and Services': 0.4, 'Residential': 0.02, 'Other urban or built-up land': 0.28, 'Cropland and pasture': 0.08, 'Transportation, communications and services': 0.2}",0.000333929
+304,TSP - combined,[ 42.267798 -89.088162],"{'Commercial and Services': 0.79, 'Residential': 0.15, 'Reservoirs': 0.06}",0.00029871
+305,TSP - combined,[ 42.240021 -89.047883],"{'Commercial and Services': 0.29, 'Residential': 0.52, 'Cropland and pasture': 0.19}",0.000399688
+306,TSP - combined,[ 42.267242 -89.08955 ],"{'Commercial and Services': 0.74, 'Residential': 0.22, 'Reservoirs': 0.04}",0.000268966
+307,TSP - combined,[ 42.489459 -89.033443],"{'Residential': 0.315, 'Industrial': 0.185, 'Cropland and pasture': 0.5}",0.000535769
+308,TSP - combined,[ 44.097573 -70.215055],"{'Commercial and Services': 0.22, 'Residential': 0.37, 'Industrial and commercial complexes': 0.41}",0.010731579
+309,TSP - combined,[ 46.686153 -67.995305],"{'Commercial and Services': 0.3333333333333333, 'Cropland and pasture': 0.6666666666666666}",0.00027
+310,TSP - combined,[ 46.747263 -68.471988],"{'Deciduous forest land': 0.55, 'Forested wetland': 0.03, 'Cropland and pasture': 0.42}",0.00035
+311,TSP - combined,[ 46.73393  -68.736434],"{'Mixed forest land': 0.46, 'Evergreen forest land': 0.54}",0.014258696
+312,TSP - combined,[ 46.730597 -68.732823],"{'Evergreen forest land': 0.99, 'Mixed forest land': 0.01}",0.014348672000000002
+313,TSP - combined,[ 46.680655 -68.015244],"{'Commercial and Services': 0.36, 'Residential': 0.55, 'Industrial': 0.09}",0.011984314
+314,TSP - combined,[ 46.685042 -68.009473],"{'Commercial and Services': 0.41, 'Residential': 0.58, 'Industrial': 0.01}",0.000246129
+315,TSP - combined,[ 47.352753 -68.325709],"{'Commercial and Services': 0.2, 'Residential': 0.72, 'Cropland and pasture': 0.08}",0.015906522
+316,TSP - combined,[ 43.658693 -70.259771],"{'Commercial and Services': 0.73, 'Mixed urban or built-up land': 0.21, 'Industrial': 0.03, 'Transportation, communications and services': 0.03}",0.019080241
+317,TSP - combined,[ 43.646194 -70.228103],"{'Commercial and Services': 0.25742574257425743, 'Residential': 0.3069306930693069, 'Bays and estuaries': 0.43564356435643564}",0.011006017000000002
+318,TSP - combined,[ 43.676748 -70.366717],"{'Industrial': 0.17, 'Reservoirs': 0.05, 'Commercial and Services': 0.4, 'Residential': 0.2, 'Other urban or built-up land': 0.17, 'Transportation, communications and services': 0.01}",0.000284444
+319,TSP - combined,[ 44.492567 -70.230852],{'Mixed forest land': 1.0},0.016795652
+320,TSP - combined,[ 44.51098  -70.221318],"{'Residential': 0.66, 'Mixed forest land': 0.34}",0.014128260999999998
+321,TSP - combined,[ 44.316179 -69.767545],"{'Commercial and Services': 0.54, 'Residential': 0.15, 'Streams and canals': 0.19, 'Mixed urban or built-up land': 0.12}",0.012208333
+322,TSP - combined,[ 44.089525 -69.166987],"{'Residential': 0.09, 'Cropland and pasture': 0.64, 'Mixed forest land': 0.26, 'Strip mines, quarries and gravel pits': 0.01}",0.012613469
+323,TSP - combined,[ 44.080914 -69.144487],"{'Cropland and pasture': 0.59, 'Nonforested wetland': 0.14, 'Mixed forest land': 0.27}",0.018302011
+324,TSP - combined,[ 44.541175 -70.521453],"{'Residential': 0.15, 'Streams and canals': 0.34, 'Evergreen forest land': 0.51}",0.01512
+325,TSP - combined,[ 44.801738 -68.771147],"{'Commercial and Services': 0.69, 'Residential': 0.29, 'Streams and canals': 0.02}",0.019272727
+326,TSP - combined,[ 44.79886  -68.769675],"{'Commercial and Services': 0.6, 'Residential': 0.07, 'Streams and canals': 0.2, 'Industrial': 0.12, 'Transportation, communications and services': 0.01}",0.010647369
+327,TSP - combined,[ 45.651994 -68.698091],"{'Residential': 0.08, 'Industrial': 0.18, 'Other urban or built-up land': 0.63, 'Transportation, communications and services': 0.06, 'Evergreen forest land': 0.05}",0.017509801
+328,TSP - combined,[ 45.63894  -68.691701],"{'Industrial': 0.04, 'Deciduous forest land': 0.64, 'Transportation, communications and services': 0.18, 'Evergreen forest land': 0.14}",0.000330833
+329,TSP - combined,[ 45.64755  -68.701702],"{'Other urban or built-up land': 0.08, 'Industrial': 0.84, 'Deciduous forest land': 0.01, 'Evergreen forest land': 0.07}",0.021758933
+330,TSP - combined,[ 44.907857 -66.991645],"{'Residential': 0.4, 'Industrial': 0.06, 'Industrial and commercial complexes': 0.07, 'Mixed forest land': 0.33, 'Strip mines, quarries and gravel pits': 0.14}",0.000306364
+331,TSP - combined,[ 45.152161 -67.403351],"{'Residential': 0.74, 'Industrial': 0.01, 'Evergreen forest land': 0.25}",0.015268889000000003
+332,TSP - combined,[ 45.155074 -67.394995],"{'Null area -- no land use assigned': 0.18, 'Industrial': 0.2, 'Mixed forest land': 0.12, 'Residential': 0.37, 'Lakes': 0.05, 'Evergreen forest land': 0.08}",0.013454118000000001
+333,TSP - combined,[ 43.491751 -70.45644 ],"{'Commercial and Services': 0.7, 'Residential': 0.12, 'Industrial': 0.1, 'Mixed urban or built-up land': 0.08}",0.015119643
+334,TSP - combined,[ 39.652588 -78.762519],"{'Commercial and Services': 0.46, 'Residential': 0.26, 'Streams and canals': 0.03, 'Industrial': 0.09, 'Transportation, communications and services': 0.16}",0.00036666700000000005
+335,TSP - combined,[ 39.480371 -79.059752],"{'Residential': 0.14754098360655737, 'Industrial': 0.03278688524590164, 'Deciduous forest land': 0.819672131147541}",0.00015
+336,TSP - combined,[ 39.211694 -76.652995],"{'Commercial and Services': 0.07, 'Residential': 0.72, 'Transportation, communications and services': 0.21}",0.01623913
+337,TSP - combined,[ 39.169533 -76.627933],"{'Residential': 0.71, 'Industrial': 0.16, 'Mixed urban or built-up land': 0.13}",0.022093994999999998
+338,TSP - combined,[ 39.291218 -76.609411],"{'Commercial and Services': 0.93, 'Transportation, communications and services': 0.07}",0.019333334
+339,TSP - combined,[ 39.23733  -76.587188],"{'Residential': 0.07, 'Transportation, communications and services': 0.93}",0.018546429
+340,TSP - combined,[ 39.340556 -76.582222],"{'Commercial and Services': 0.3, 'Residential': 0.04, 'Other urban or built-up land': 0.58, 'Transportation, communications and services': 0.08}",0.012970588000000002
+341,TSP - combined,[ 39.34465 -76.68538],"{'Commercial and Services': 0.19393939393939394, 'Residential': 0.6060606060606061, 'Industrial': 0.2}",0.011786363
+342,TSP - combined,[ 39.28777  -76.546861],"{'Commercial and Services': 0.18, 'Residential': 0.28, 'Industrial': 0.29, 'Other urban or built-up land': 0.17, 'Transportation, communications and services': 0.08}",0.015746
+343,TSP - combined,[ 39.277778 -76.663889],"{'Industrial': 0.19, 'Industrial and commercial complexes': 0.03, 'Commercial and Services': 0.17, 'Residential': 0.53, 'Other urban or built-up land': 0.07, 'Cropland and pasture': 0.01}",0.00019250000000000002
+344,TSP - combined,[ 39.314167 -76.613333],"{'Commercial and Services': 0.41, 'Residential': 0.55, 'Other urban or built-up land': 0.04}",0.015269565
+345,TSP - combined,[ 39.243997 -76.508574],"{'Commercial and Services': 0.14, 'Residential': 0.75, 'Streams and canals': 0.06, 'Industrial': 0.05}",0.024552622
+346,TSP - combined,[ 39.310833 -76.474444],"{'Residential': 0.93, 'Mixed urban or built-up land': 0.07}",0.018032654000000002
+347,TSP - combined,[ 38.070128 -76.458564],{'Bays and estuaries': 1.0},0.01005
+348,TSP - combined,[ 39.609001 -75.82966 ],"{'Commercial and Services': 0.38, 'Residential': 0.5, 'Deciduous forest land': 0.12}",0.013409091000000001
+349,TSP - combined,[ 39.408713 -77.398596],"{'Industrial': 0.09, 'Commercial and Services': 0.11, 'Residential': 0.26, 'Other urban or built-up land': 0.02, 'Cropland and pasture': 0.5, 'Transportation, communications and services': 0.02}",0.013630951999999998
+350,TSP - combined,[ 39.016777 -77.071922],"{'Commercial and Services': 0.05660377358490566, 'Residential': 0.4716981132075472, 'Transportation, communications and services': 0.4716981132075472}",0.014209999999999999
+351,TSP - combined,[ 39.082608 -77.151924],"{'Commercial and Services': 0.175, 'Residential': 0.325, 'Transportation, communications and services': 0.5}",0.010171429
+352,TSP - combined,[ 38.924001 -76.90414 ],"{'Residential': 0.5040650406504065, 'Industrial and commercial complexes': 0.13008130081300814, 'Transportation, communications and services': 0.36585365853658536}",0.013553846
+353,TSP - combined,[ 38.978166 -76.944697],"{'Commercial and Services': 0.05, 'Residential': 0.95}",0.019745408
+354,TSP - combined,[ 38.959833 -76.94553 ],"{'Commercial and Services': 0.07407407407407407, 'Residential': 0.9259259259259259}",0.012944
+355,TSP - combined,[ 39.104552 -76.86664 ],"{'Commercial and Services': 0.28, 'Residential': 0.58, 'Deciduous forest land': 0.14}",0.028161431
+356,TSP - combined,[ 38.362618 -75.603258],"{'Commercial and Services': 0.27, 'Residential': 0.7, 'Industrial': 0.03}",0.011633334
+357,TSP - combined,[ 38.362062 -75.599091],"{'Commercial and Services': 0.21, 'Residential': 0.79}",0.000205
+358,TSP - combined,[ 41.636493 -70.932539],"{'Commercial and Services': 0.02, 'Residential': 0.88, 'Transitional areas': 0.01, 'Mixed urban or built-up land': 0.09}",0.012254098
+359,TSP - combined,[ 41.70038  -71.151156],"{'Commercial and Services': 0.46, 'Residential': 0.12, 'Industrial': 0.35, 'Transportation, communications and services': 0.07}",0.013592857
+360,TSP - combined,[ 42.108983 -72.594811],"{'Commercial and Services': 0.75, 'Transportation, communications and services': 0.25}",0.014766444000000002
+361,TSP - combined,[ 42.375097 -71.124497],"{'Commercial and Services': 0.06, 'Residential': 0.39, 'Streams and canals': 0.05, 'Transportation, communications and services': 0.5}",0.0148375
+362,TSP - combined,[ 42.329542 -71.067828],"{'Commercial and Services': 0.49, 'Residential': 0.01, 'Transportation, communications and services': 0.5}",0.017339286
+363,TSP - combined,[ 42.258704 -71.800072],"{'Commercial and Services': 0.23376623376623376, 'Residential': 0.1038961038961039, 'Industrial': 0.16233766233766234, 'Other urban or built-up land': 0.05844155844155844, 'Transportation, communications and services': 0.44155844155844154}",7.000000000000001e-05
+364,TSP - combined,[ 42.260102 -71.798375],"{'Commercial and Services': 0.3422818791946309, 'Residential': 0.08053691275167785, 'Industrial': 0.03355704697986577, 'Other urban or built-up land': 0.087248322147651, 'Transportation, communications and services': 0.4563758389261745}",0.016352173999999997
+365,TSP - combined,[ 42.263426 -71.802016],"{'Commercial and Services': 0.5445544554455446, 'Residential': 0.43564356435643564, 'Transportation, communications and services': 0.019801980198019802}",0.000187273
+366,TSP - combined,[ 42.917582 -71.999525],"{'Nonforested wetland': 0.046511627906976744, 'Mixed forest land': 0.9534883720930233}",0.016142966
+367,TSP - combined,[ 42.935914 -72.277586],"{'Commercial and Services': 0.3, 'Residential': 0.7}",0.011847917000000001
+368,TSP - combined,[ 44.470614 -71.168132],"{'Residential': 0.56, 'Streams and canals': 0.03, 'Industrial': 0.24, 'Deciduous forest land': 0.17}",0.012602391000000001
+369,TSP - combined,[ 43.750905 -71.690912],"{'Commercial and Services': 0.018691588785046728, 'Residential': 0.1308411214953271, 'Mixed forest land': 0.8504672897196262}",0.01137234
+370,TSP - combined,[ 42.99064  -71.458955],"{'Commercial and Services': 0.53, 'Residential': 0.47}",0.00364
+371,TSP - combined,[ 42.758145 -71.465621],"{'Commercial and Services': 0.27, 'Residential': 0.52, 'Industrial': 0.21}",0.012901352000000001
+372,TSP - combined,[ 43.199525 -71.552294],"{'Commercial and Services': 0.26, 'Other urban or built-up land': 0.15, 'Cropland and pasture': 0.08, 'Residential': 0.51}",0.012625483000000002
+373,TSP - combined,[ 43.077589 -70.753665],"{'Industrial': 0.06, 'Commercial and Services': 0.3, 'Residential': 0.3, 'Streams and canals': 0.19, 'Lakes': 0.03, 'Transportation, communications and services': 0.12}",0.012493478
+374,TSP - combined,[ 39.948724 -75.121009],"{'Commercial and Services': 0.7, 'Residential': 0.07, 'Transportation, communications and services': 0.11, 'Transitional areas': 0.12}",0.012747291
+375,TSP - combined,[ 39.925669 -75.040727],"{'Commercial and Services': 0.54, 'Cropland and pasture': 0.46}",0.000109091
+376,TSP - combined,[ 40.553438 -74.139031],"{'Other urban or built-up land': 0.03, 'Residential': 0.96, 'Deciduous forest land': 0.01}",0.012285714000000001
+377,TSP - combined,[ 39.709558 -75.123232],"{'Commercial and Services': 0.61, 'Residential': 0.39}",0.00014000000000000001
+378,TSP - combined,[ 40.668159 -74.102365],"{'Commercial and Services': 0.16, 'Residential': 0.02, 'Bays and estuaries': 0.33, 'Transportation, communications and services': 0.49}",0.014023001
+379,TSP - combined,[ 40.722046 -74.053752],"{'Commercial and Services': 0.6, 'Residential': 0.4}",0.013547726999999999
+380,TSP - combined,[ 40.22122  -74.769328],"{'Commercial and Services': 0.82, 'Residential': 0.04, 'Streams and canals': 0.14}",0.000154167
+381,TSP - combined,[ 40.918381 -74.168092],"{'Commercial and Services': 0.8, 'Residential': 0.2}",0.000143636
+382,TSP - combined,[ 40.662047 -74.208478],"{'Commercial and Services': 0.07, 'Residential': 0.93}",0.009204761999999998
+383,TSP - combined,[ 42.64851  -73.775963],"{'Commercial and Services': 0.375, 'Residential': 0.125, 'Transportation, communications and services': 0.5}",0.012461702000000002
+384,TSP - combined,[ 42.64225 -73.75464],"{'Commercial and Services': 0.34806629834254144, 'Residential': 0.03867403314917127, 'Streams and canals': 0.06077348066298342, 'Transportation, communications and services': 0.5524861878453039}",0.013104255
+385,TSP - combined,[ 40.831767 -73.903748],"{'Residential': 0.5, 'Transportation, communications and services': 0.5}",0.00016555599999999997
+386,TSP - combined,[ 42.115614 -79.219213],"{'Commercial and Services': 0.44, 'Residential': 0.37, 'Deciduous forest land': 0.08, 'Other urban or built-up land': 0.07, 'Cropland and pasture': 0.04}",0.0123672
+387,TSP - combined,[ 42.079796 -76.805789],"{'Commercial and Services': 0.32, 'Residential': 0.68}",0.00014000000000000001
+388,TSP - combined,[ 42.09063  -76.801345],"{'Commercial and Services': 0.84, 'Residential': 0.16}",0.000351818
+389,TSP - combined,[ 44.695599 -73.45319 ],"{'Commercial and Services': 0.6, 'Residential': 0.33, 'Industrial': 0.02, 'Other urban or built-up land': 0.05}",0.013624444000000001
+390,TSP - combined,[ 41.721482 -73.938193],"{'Streams and canals': 0.61, 'Industrial': 0.3, 'Deciduous forest land': 0.09}",0.000184167
+391,TSP - combined,[ 42.871169 -78.830312],"{'Commercial and Services': 0.01, 'Residential': 0.08, 'Industrial': 0.67, 'Transportation, communications and services': 0.24}",0.000214167
+392,TSP - combined,[ 42.876907 -78.809526],"{'Commercial and Services': 0.35, 'Residential': 0.44, 'Other urban or built-up land': 0.11, 'Transportation, communications and services': 0.1}",0.00024249999999999999
+393,TSP - combined,[ 42.841169 -78.828089],"{'Commercial and Services': 0.44, 'Residential': 0.56}",0.0002275
+394,TSP - combined,[ 42.640894 -78.535578],"{'Commercial and Services': 0.16, 'Residential': 0.31, 'Deciduous forest land': 0.04, 'Cropland and pasture': 0.49}",0.000329167
+395,TSP - combined,[ 42.905891 -78.84309 ],"{'Commercial and Services': 0.09, 'Residential': 0.34, 'Other urban or built-up land': 0.37, 'Transportation, communications and services': 0.2}",0.00019500000000000002
+396,TSP - combined,[ 42.99551 -78.90152],"{'Industrial': 0.11, 'Deciduous forest land': 0.02, 'Residential': 0.01, 'Other urban or built-up land': 0.07, 'Transportation, communications and services': 0.64, 'Transitional areas': 0.15}",0.000264167
+397,TSP - combined,[ 42.818948 -78.840589],"{'Residential': 0.45132743362831856, 'Industrial': 0.017699115044247787, 'Other urban or built-up land': 0.20353982300884957, 'Transportation, communications and services': 0.3274336283185841}",0.00015900000000000002
+398,TSP - combined,[ 44.39308 -73.8589 ],{'Deciduous forest land': 1.0},0.00031833299999999996
+399,TSP - combined,[ 44.362274 -74.1521  ],"{'Forested wetland': 0.18620689655172415, 'Deciduous forest land': 0.12413793103448276, 'Mixed forest land': 0.6896551724137931}",0.000347583
+400,TSP - combined,[ 43.051462 -74.344024],"{'Commercial and Services': 0.63, 'Residential': 0.37}",0.000282714
+401,TSP - combined,[ 43.413401 -74.276526],"{'Forested wetland': 0.3150684931506849, 'Mixed forest land': 0.684931506849315}",0.00022
+402,TSP - combined,[ 43.970895 -75.911034],"{'Commercial and Services': 0.32, 'Residential': 0.68}",0.000295
+403,TSP - combined,[ 44.100054 -76.366891],"{'Bays and estuaries': 0.66, 'Cropland and pasture': 0.34}",0.00022
+404,TSP - combined,[ 40.73277 -73.94722],"{'Commercial and Services': 0.28, 'Residential': 0.07, 'Industrial': 0.54, 'Transportation, communications and services': 0.11}",0.00017999999999999998
+405,TSP - combined,[ 40.654271 -74.004862],"{'Mixed urban or built-up land': 0.3, 'Transportation, communications and services': 0.58, 'Residential': 0.12}",0.00021
+406,TSP - combined,[ 43.787847 -75.47685 ],"{'Residential': 0.34394904458598724, 'Cropland and pasture': 0.6369426751592356, 'Transportation, communications and services': 0.01910828025477707}",0.000319917
+407,TSP - combined,[ 43.200895 -77.641114],"{'Commercial and Services': 0.1, 'Residential': 0.22, 'Industrial': 0.68}",0.013006924999999999
+408,TSP - combined,[ 43.158442 -77.564302],"{'Commercial and Services': 0.53, 'Residential': 0.31, 'Industrial': 0.16}",0.000249091
+409,TSP - combined,[ 43.161062 -77.603293],"{'Commercial and Services': 0.45614035087719296, 'Transportation, communications and services': 0.543859649122807}",0.0002575
+410,TSP - combined,[ 40.74316 -73.58549],"{'Commercial and Services': 0.305, 'Other urban or built-up land': 0.195, 'Transportation, communications and services': 0.5}",0.0004245
+411,TSP - combined,[ 40.657603 -73.641518],"{'Commercial and Services': 0.66, 'Residential': 0.34}",0.000463333
+412,TSP - combined,[ 40.863988 -73.630405],"{'Commercial and Services': 0.49, 'Residential': 0.51}",8.999999999999999e-05
+413,TSP - combined,[ 40.821768 -73.947638],"{'Commercial and Services': 0.17355371900826447, 'Mixed urban or built-up land': 0.8264462809917356}",0.000319333
+414,TSP - combined,[ 40.739546 -73.985694],"{'Commercial and Services': 0.02, 'Mixed urban or built-up land': 0.98}",0.016004412000000003
+415,TSP - combined,[ 43.085889 -78.996154],"{'Residential': 0.365, 'Industrial': 0.135, 'Transportation, communications and services': 0.5}",0.000297667
+416,TSP - combined,[ 43.128732 -79.031883],"{'Commercial and Services': 0.435, 'Strip mines, quarries and gravel pits': 0.065, 'Transportation, communications and services': 0.5}",0.00047326899999999996
+417,TSP - combined,[ 43.095612 -79.055045],"{'Commercial and Services': 0.15151515151515152, 'Residential': 0.3434343434343434, 'Transportation, communications and services': 0.5050505050505051}",0.00024
+418,TSP - combined,[ 43.100903 -75.232942],"{'Commercial and Services': 0.75, 'Residential': 0.25}",0.0004285
+419,TSP - combined,[ 43.218126 -75.455175],{'Residential': 1.0},0.000749808
+420,TSP - combined,[ 43.10007  -75.196274],"{'Shrub-brushland rangeland': 0.16, 'Industrial': 0.29, 'Transportation, communications and services': 0.5, 'Mixed forest land': 0.05}",0.000412692
+421,TSP - combined,[ 43.09892 -75.22506],"{'Commercial and Services': 0.36, 'Residential': 0.64}",0.00047796300000000003
+422,TSP - combined,[ 43.057011 -76.077422],"{'Commercial and Services': 0.3837837837837838, 'Residential': 0.04864864864864865, 'Industrial': 0.02702702702702703, 'Transportation, communications and services': 0.5405405405405406}",0.00046625000000000003
+423,TSP - combined,[ 43.060345 -76.202981],"{'Residential': 0.64, 'Industrial': 0.21, 'Other urban or built-up land': 0.06, 'Transportation, communications and services': 0.09}",0.016875855000000002
+424,TSP - combined,[ 43.050457 -76.133416],"{'Commercial and Services': 0.42857142857142855, 'Residential': 0.061224489795918366, 'Transportation, communications and services': 0.5102040816326531}",0.000787273
+425,TSP - combined,[ 42.727578 -73.672062],"{'Commercial and Services': 0.54, 'Residential': 0.46}",0.010868182000000002
+426,TSP - combined,[ 42.825633 -73.92679 ],"{'Commercial and Services': 0.03, 'Residential': 0.67, 'Streams and canals': 0.01, 'Industrial': 0.29}",0.0004898109999999999
+427,TSP - combined,[ 42.680075 -74.494306],"{'Commercial and Services': 0.53, 'Residential': 0.4, 'Cropland and pasture': 0.07}",0.000345094
+428,TSP - combined,[ 42.374795 -76.864681],"{'Commercial and Services': 0.48, 'Residential': 0.29, 'Forested wetland': 0.08, 'Cropland and pasture': 0.04, 'Mixed forest land': 0.11}",0.000274167
+429,TSP - combined,[ 44.936993 -74.874085],"{'Deciduous forest land': 0.03, 'Reservoirs': 0.03, 'Commercial and Services': 0.38, 'Residential': 0.32, 'Streams and canals': 0.11, 'Transportation, communications and services': 0.13}",0.000337755
+430,TSP - combined,[ 44.70173  -75.496614],"{'Commercial and Services': 0.44, 'Residential': 0.21, 'Industrial': 0.06, 'Reservoirs': 0.29}",0.010872881
+431,TSP - combined,[ 40.844542 -73.276504],"{'Commercial and Services': 0.26666666666666666, 'Residential': 0.6296296296296297, 'Transportation, communications and services': 0.1037037037037037}",0.013065517
+432,TSP - combined,[ 40.944543 -73.072051],"{'Commercial and Services': 0.4864864864864865, 'Residential': 0.5135135135135135}",0.000284167
+433,TSP - combined,[ 41.766758 -74.630437],"{'Cropland and pasture': 0.64, 'Deciduous forest land': 0.36}",0.000395455
+434,TSP - combined,[ 40.90871  -73.837079],"{'Commercial and Services': 0.029411764705882353, 'Residential': 0.9705882352941176}",0.00015
+435,TSP - combined,[ 40.93149 -73.76575],"{'Commercial and Services': 0.4, 'Residential': 0.33, 'Other urban or built-up land': 0.04, 'Transportation, communications and services': 0.23}",0.00047122799999999997
+436,TSP - combined,[ 40.932321 -73.895969],"{'Commercial and Services': 0.2, 'Residential': 0.8}",0.000495
+437,TSP - combined,[ 40.907599 -73.781244],"{'Commercial and Services': 0.36936936936936937, 'Residential': 0.6306306306306306}",0.000476083
+438,TSP - combined,[ 41.03093  -73.767077],"{'Mixed urban or built-up land': 0.99, 'Residential': 0.01}",0.000229167
+439,TSP - combined,[ 40.422847 -79.97283 ],"{'Residential': 0.8620689655172413, 'Other urban or built-up land': 0.13793103448275862}",0.015512172000000001
+440,TSP - combined,[ 40.41368  -79.941162],"{'Residential': 0.86, 'Industrial': 0.05, 'Deciduous forest land': 0.09}",0.001004808
+441,TSP - combined,[ 40.443367 -79.990293],"{'Commercial and Services': 0.53, 'Residential': 0.16, 'Transportation, communications and services': 0.31}",0.01093
+442,TSP - combined,[ 40.323768 -79.868062],"{'Commercial and Services': 0.07317073170731707, 'Residential': 0.6260162601626016, 'Deciduous forest land': 0.11382113821138211, 'Mixed forest land': 0.18699186991869918}",0.010341463
+443,TSP - combined,[ 40.402328 -79.860973],"{'Commercial and Services': 0.29, 'Residential': 0.61, 'Deciduous forest land': 0.03, 'Industrial': 0.05, 'Other urban or built-up land': 0.02}",0.0005918329999999999
+444,TSP - combined,[ 40.416736 -79.884216],"{'Residential': 0.82, 'Industrial': 0.18}",0.000259167
+445,TSP - combined,[ 40.396736 -79.863382],"{'Commercial and Services': 0.31, 'Residential': 0.09, 'Streams and canals': 0.24, 'Industrial': 0.36}",0.00045425
+446,TSP - combined,[ 40.352569 -79.926716],"{'Residential': 0.32, 'Deciduous forest land': 0.09, 'Transportation, communications and services': 0.58, 'Mixed forest land': 0.01}",0.000261818
+447,TSP - combined,[ 40.372013 -79.848381],"{'Residential': 0.96, 'Industrial': 0.04}",0.00040833300000000004
+448,TSP - combined,[ 40.547011 -79.78366 ],"{'Commercial and Services': 0.11, 'Residential': 0.83, 'Deciduous forest land': 0.06}",0.000482417
+449,TSP - combined,[ 40.499767 -80.071337],"{'Residential': 0.68, 'Streams and canals': 0.25, 'Industrial': 0.07}",0.00061
+450,TSP - combined,[ 40.438402 -80.068666],"{'Commercial and Services': 0.25203252032520324, 'Residential': 0.7479674796747967}",0.000411667
+451,TSP - combined,[ 40.375644 -80.169943],"{'Commercial and Services': 0.17, 'Strip mines, quarries and gravel pits': 0.02, 'Deciduous forest land': 0.18, 'Cropland and pasture': 0.63}",0.00055725
+452,TSP - combined,[ 40.441179 -80.240338],"{'Residential': 0.48514851485148514, 'Deciduous forest land': 0.19801980198019803, 'Transportation, communications and services': 0.22772277227722773, 'Evergreen forest land': 0.0891089108910891}",0.0005230909999999999
+453,TSP - combined,[ 40.635019 -80.444223],"{'Commercial and Services': 0.21, 'Residential': 0.36, 'Industrial': 0.12, 'Deciduous forest land': 0.31}",0.00015
+454,TSP - combined,[ 40.685019 -80.324775],"{'Residential': 0.52, 'Streams and canals': 0.45, 'Evergreen forest land': 0.03}",0.000635
+455,TSP - combined,[ 40.701407 -80.28033 ],"{'Commercial and Services': 0.35, 'Residential': 0.03, 'Streams and canals': 0.16, 'Industrial': 0.28, 'Transportation, communications and services': 0.18}",0.0003725
+456,TSP - combined,[ 40.591686 -80.22755 ],"{'Commercial and Services': 0.44, 'Residential': 0.56}",0.00047149999999999997
+457,TSP - combined,[ 40.630019 -80.50867 ],"{'Reservoirs': 0.047619047619047616, 'Mixed forest land': 0.9523809523809523}",0.00040177800000000004
+458,TSP - combined,[ 40.765018 -80.321442],"{'Commercial and Services': 0.19, 'Residential': 0.81}",0.000627451
+459,TSP - combined,[ 40.350833 -75.935278],"{'Residential': 0.77, 'Industrial': 0.23}",0.0005381819999999999
+460,TSP - combined,[ 40.337789 -75.946856],"{'Commercial and Services': 0.34, 'Residential': 0.45, 'Industrial': 0.21}",0.012670968
+461,TSP - combined,[ 40.332232 -75.628513],"{'Commercial and Services': 0.1, 'Residential': 0.89, 'Cropland and pasture': 0.01}",0.00018714300000000002
+462,TSP - combined,[ 40.556676 -75.977967],"{'Commercial and Services': 0.17, 'Residential': 0.66, 'Cropland and pasture': 0.17}",0.00038509099999999995
+463,TSP - combined,[ 40.324455 -75.930745],"{'Commercial and Services': 0.79, 'Residential': 0.18, 'Industrial': 0.03}",0.009052632000000001
+464,TSP - combined,[ 40.403056 -75.928611],"{'Commercial and Services': 0.07, 'Residential': 0.15, 'Industrial': 0.09, 'Cropland and pasture': 0.65, 'Strip mines, quarries and gravel pits': 0.04}",0.000458417
+465,TSP - combined,[ 40.377222 -75.914444],"{'Residential': 0.72, 'Industrial': 0.23, 'Deciduous forest land': 0.05}",0.00023
+466,TSP - combined,[ 40.316401 -76.009636],"{'Commercial and Services': 0.3, 'Residential': 0.42, 'Cropland and pasture': 0.28}",0.0009866669999999999
+467,TSP - combined,[ 40.535278 -78.370833],"{'Commercial and Services': 0.1292517006802721, 'Residential': 0.1292517006802721, 'Deciduous forest land': 0.6802721088435374, 'Other urban or built-up land': 0.047619047619047616, 'Transportation, communications and services': 0.013605442176870748}",0.000564083
+468,TSP - combined,[ 40.515572 -78.400824],"{'Commercial and Services': 0.4479638009049774, 'Deciduous forest land': 0.45248868778280543, 'Industrial': 0.004524886877828055, 'Other urban or built-up land': 0.09502262443438914}",0.00032799999999999995
+469,TSP - combined,[ 41.762498 -76.443254],"{'Commercial and Services': 0.19, 'Residential': 0.37, 'Streams and canals': 0.2, 'Transportation, communications and services': 0.24}",0.000512833
+470,TSP - combined,[ 40.107222 -74.882222],"{'Commercial and Services': 0.27, 'Residential': 0.73}",0.00036700000000000014
+471,TSP - combined,[ 40.272231 -75.130164],"{'Commercial and Services': 0.16911764705882354, 'Cropland and pasture': 0.7352941176470589, 'Other urban or built-up land': 0.09558823529411764}",0.000513667
+472,TSP - combined,[ 41.00557  -79.716976],{'Deciduous forest land': 1.0},0.00026000000000000003
+473,TSP - combined,[ 40.342797 -78.935564],"{'Residential': 0.12352941176470589, 'Industrial': 0.12941176470588237, 'Deciduous forest land': 0.5882352941176471, 'Mixed urban or built-up land': 0.1588235294117647}",0.000346667
+474,TSP - combined,[ 40.325852 -78.916952],"{'Commercial and Services': 0.30319148936170215, 'Residential': 0.05319148936170213, 'Industrial': 0.11170212765957446, 'Deciduous forest land': 0.5319148936170213}",0.012450000000000001
+475,TSP - combined,[ 40.346686 -78.886396],"{'Residential': 0.43147208121827413, 'Industrial': 0.06091370558375635, 'Deciduous forest land': 0.5076142131979695}",0.00047083300000000004
+476,TSP - combined,[ 40.299464 -78.906952],"{'Residential': 0.4784688995215311, 'Deciduous forest land': 0.5167464114832536, 'Other urban or built-up land': 0.004784688995215311}",0.009444231
+477,TSP - combined,[ 40.803056 -75.608333],"{'Commercial and Services': 0.2248062015503876, 'Residential': 0.5968992248062015, 'Deciduous forest land': 0.17829457364341086}",0.011280952000000002
+478,TSP - combined,[ 40.793901 -77.859416],"{'Commercial and Services': 0.73, 'Residential': 0.27}",0.00030575000000000003
+479,TSP - combined,[ 39.964736 -75.607125],"{'Commercial and Services': 0.02, 'Residential': 0.96, 'Industrial and commercial complexes': 0.02}",0.0002475
+480,TSP - combined,[ 39.972222 -75.813056],"{'Commercial and Services': 0.05, 'Residential': 0.3, 'Industrial': 0.11, 'Deciduous forest land': 0.54}",0.019136833000000002
+481,TSP - combined,[ 40.139456 -75.520732],"{'Commercial and Services': 0.04, 'Residential': 0.65, 'Industrial': 0.19, 'Cropland and pasture': 0.12}",0.009638462
+482,TSP - combined,[ 41.356121 -79.217236],"{'Deciduous forest land': 0.9900990099009901, 'Evergreen forest land': 0.009900990099009901}",0.011409259000000001
+483,TSP - combined,[ 41.131118 -77.433567],"{'Residential': 0.2, 'Cropland and pasture': 0.58, 'Transportation, communications and services': 0.22}",0.011757706000000001
+484,TSP - combined,[ 40.246404 -76.897721],"{'Commercial and Services': 0.38, 'Residential': 0.62}",0.010139286
+485,TSP - combined,[ 40.192793 -76.728549],"{'Commercial and Services': 0.24, 'Residential': 0.43, 'Streams and canals': 0.18, 'Mixed urban or built-up land': 0.15}",0.000155
+486,TSP - combined,[ 40.230571 -76.832163],"{'Residential': 0.68, 'Streams and canals': 0.03, 'Industrial': 0.29}",0.00017999999999999998
+487,TSP - combined,[ 40.263056 -76.877222],"{'Commercial and Services': 0.71, 'Residential': 0.14, 'Transportation, communications and services': 0.15}",0.00021454499999999999
+488,TSP - combined,[ 39.835556 -75.3725  ],"{'Residential': 0.08, 'Streams and canals': 0.5, 'Industrial': 0.28, 'Transitional areas': 0.14}",0.13522102800000002
+489,TSP - combined,[ 39.919736 -75.383785],"{'Commercial and Services': 0.25925925925925924, 'Residential': 0.7407407407407407}",0.07690166000000001
+490,TSP - combined,[ 39.890014 -75.281282],"{'Commercial and Services': 0.11, 'Residential': 0.51, 'Industrial and commercial complexes': 0.37, 'Nonforested wetland': 0.01}",0.079937178
+491,TSP - combined,[ 41.963618 -80.40394 ],"{'Mixed urban or built-up land': 0.15254237288135594, 'Cropland and pasture': 0.847457627118644}",0.000223333
+492,TSP - combined,[ 42.119727 -79.985037],"{'Cropland and pasture': 0.09, 'Deciduous forest land': 0.48, 'Other urban or built-up land': 0.07, 'Transitional areas': 0.36}",0.000315
+493,TSP - combined,[ 42.091672 -80.178932],"{'Residential': 0.02, 'Other urban or built-up land': 0.04, 'Transportation, communications and services': 0.94}",0.000158333
+494,TSP - combined,[ 42.120561 -80.080318],"{'Commercial and Services': 0.15254237288135594, 'Residential': 0.7033898305084746, 'Other urban or built-up land': 0.1440677966101695}",0.000205
+495,TSP - combined,[ 42.145283 -80.040872],"{'Residential': 0.46, 'Industrial': 0.34, 'Transportation, communications and services': 0.2}",0.017190823
+496,TSP - combined,[ 40.020581 -79.890874],"{'Commercial and Services': 0.25, 'Residential': 0.52, 'Streams and canals': 0.16, 'Evergreen forest land': 0.06, 'Mixed forest land': 0.01}",0.000275556
+497,TSP - combined,[ 39.92891  -77.652191],"{'Commercial and Services': 0.2706766917293233, 'Residential': 0.6992481203007519, 'Other urban or built-up land': 0.03007518796992481}",0.00029
+498,TSP - combined,[ 41.371667 -75.742122],"{'Commercial and Services': 0.3150684931506849, 'Residential': 0.684931506849315}",0.011639131
+499,TSP - combined,[ 41.485276 -75.57906 ],"{'Residential': 0.76, 'Other urban or built-up land': 0.24}",0.014321263
+500,TSP - combined,[ 41.411667 -75.655833],"{'Commercial and Services': 0.79, 'Residential': 0.21}",0.000301
+501,TSP - combined,[ 41.445555 -75.62045 ],"{'Residential': 0.91, 'Industrial': 0.09}",0.000321
+502,TSP - combined,[ 40.039444 -76.306389],"{'Commercial and Services': 0.83, 'Residential': 0.17}",0.00021
+503,TSP - combined,[ 40.055833 -76.306944],"{'Commercial and Services': 0.5841584158415841, 'Residential': 0.07920792079207921, 'Industrial and commercial complexes': 0.10891089108910891, 'Other urban or built-up land': 0.04950495049504951, 'Industrial': 0.1782178217821782}",0.012879310000000001
+504,TSP - combined,[ 40.0725   -76.335556],"{'Industrial and commercial complexes': 0.75, 'Cropland and pasture': 0.02, 'Industrial': 0.23}",0.01628125
+505,TSP - combined,[ 40.068904 -76.292703],"{'Residential': 0.51, 'Cropland and pasture': 0.29, 'Transportation, communications and services': 0.2}",0.029195596
+506,TSP - combined,[ 40.050849 -76.393817],"{'Cropland and pasture': 0.625, 'Industrial and commercial complexes': 0.3, 'Other urban or built-up land': 0.05, 'Transportation, communications and services': 0.025}",0.012128572
+507,TSP - combined,[ 40.995848 -80.346442],"{'Commercial and Services': 0.29, 'Residential': 0.07, 'Industrial': 0.64}",0.011884615999999999
+508,TSP - combined,[ 40.858073 -80.288384],"{'Commercial and Services': 0.49, 'Residential': 0.38, 'Industrial': 0.13}",0.013385965
+509,TSP - combined,[ 40.97696  -80.493113],"{'Residential': 0.5, 'Industrial': 0.04, 'Reservoirs': 0.25, 'Evergreen forest land': 0.17, 'Strip mines, quarries and gravel pits': 0.04}",0.018253846
+510,TSP - combined,[ 40.33668  -76.403538],"{'Commercial and Services': 0.06, 'Residential': 0.9, 'Cropland and pasture': 0.04}",0.013863637000000002
+511,TSP - combined,[ 40.618617 -75.448505],"{'Commercial and Services': 0.14, 'Residential': 0.41, 'Other urban or built-up land': 0.45}",0.018191666
+512,TSP - combined,[ 40.53584  -75.506286],"{'Commercial and Services': 0.22, 'Residential': 0.34, 'Cropland and pasture': 0.44}",0.020242308
+513,TSP - combined,[ 40.954172 -75.967131],"{'Commercial and Services': 0.33, 'Residential': 0.45, 'Other urban or built-up land': 0.04, 'Reservoirs': 0.06, 'Strip mines, quarries and gravel pits': 0.12}",0.015701886999999998
+514,TSP - combined,[ 41.321944 -75.789167],"{'Commercial and Services': 0.46, 'Residential': 0.5, 'Other urban or built-up land': 0.02, 'Mixed urban or built-up land': 0.02}",0.031967829
+515,TSP - combined,[ 41.202224 -75.990742],"{'Commercial and Services': 0.23, 'Residential': 0.61, 'Other urban or built-up land': 0.09, 'Strip mines, quarries and gravel pits': 0.07}",0.0056606059999999995
+516,TSP - combined,[ 41.294723 -75.869626],"{'Commercial and Services': 0.24, 'Residential': 0.74, 'Cropland and pasture': 0.02}",0.006925
+517,TSP - combined,[ 41.248056 -75.880278],"{'Commercial and Services': 0.88, 'Residential': 0.01, 'Streams and canals': 0.06, 'Industrial': 0.01, 'Transportation, communications and services': 0.04}",0.008702326
+518,TSP - combined,[ 41.222584 -76.504949],"{'Deciduous forest land': 0.42574257425742573, 'Cropland and pasture': 0.5742574257425742}",0.016513793
+519,TSP - combined,[ 41.221669 -76.015464],"{'Residential': 0.2, 'Streams and canals': 0.32, 'Industrial': 0.07, 'Deciduous forest land': 0.05, 'Mixed urban or built-up land': 0.36}",0.028026082
+520,TSP - combined,[ 41.246394 -76.989941],"{'Commercial and Services': 0.37, 'Residential': 0.1, 'Streams and canals': 0.26, 'Industrial': 0.27}",0.011161111
+521,TSP - combined,[ 41.24     -77.015278],"{'Commercial and Services': 0.11, 'Residential': 0.6, 'Streams and canals': 0.04, 'Industrial': 0.25}",0.013191429
+522,TSP - combined,[ 41.212236 -80.502001],"{'Commercial and Services': 0.033816425120772944, 'Residential': 0.391304347826087, 'Cropland and pasture': 0.4830917874396135, 'Transportation, communications and services': 0.09178743961352658}",0.014465625000000001
+523,TSP - combined,[ 41.232235 -80.506168],"{'Commercial and Services': 0.395, 'Residential': 0.105, 'Cropland and pasture': 0.5}",0.008658182
+524,TSP - combined,[ 40.245566 -75.290446],"{'Commercial and Services': 0.35, 'Residential': 0.65}",0.014676667000000001
+525,TSP - combined,[ 40.1389   -75.056551],"{'Commercial and Services': 0.3, 'Residential': 0.09, 'Other urban or built-up land': 0.26, 'Cropland and pasture': 0.35}",0.029799285000000002
+526,TSP - combined,[ 40.076944 -75.304167],"{'Commercial and Services': 0.31, 'Residential': 0.69}",0.025727235
+527,TSP - combined,[ 40.120845 -75.303782],"{'Residential': 0.87, 'Cropland and pasture': 0.13}",0.013133333
+528,TSP - combined,[ 40.252511 -75.629624],"{'Commercial and Services': 0.047872340425531915, 'Residential': 0.5319148936170213, 'Other urban or built-up land': 0.42021276595744683}",0.011372
+529,TSP - combined,[ 40.740283 -75.310722],"{'Commercial and Services': 0.16666666666666666, 'Residential': 0.4, 'Cropland and pasture': 0.4166666666666667, 'Strip mines, quarries and gravel pits': 0.016666666666666666}",0.013351723999999999
+530,TSP - combined,[ 40.620278 -75.363333],"{'Residential': 0.27, 'Industrial': 0.14, 'Other urban or built-up land': 0.59}",0.013087096999999999
+531,TSP - combined,[ 40.688889 -75.215556],"{'Commercial and Services': 0.14018691588785046, 'Residential': 0.6355140186915887, 'Streams and canals': 0.07476635514018691, 'Transportation, communications and services': 0.14953271028037382}",0.030098002
+532,TSP - combined,[ 40.6175   -75.333056],"{'Residential': 0.009174311926605505, 'Industrial': 0.8532110091743119, 'Cropland and pasture': 0.05504587155963303, 'Transportation, communications and services': 0.08256880733944955}",0.013423858
+533,TSP - combined,[ 40.69 -75.5 ],"{'Commercial and Services': 0.02, 'Residential': 0.55, 'Streams and canals': 0.07, 'Industrial': 0.35, 'Cropland and pasture': 0.01}",0.012473076999999999
+534,TSP - combined,[ 40.456944 -77.165556],"{'Cropland and pasture': 0.49, 'Deciduous forest land': 0.51}",0.0187
+535,TSP - combined,[ 39.94418  -75.165722],"{'Commercial and Services': 0.009900990099009901, 'Residential': 0.5841584158415841, 'Mixed urban or built-up land': 0.40594059405940597}",0.00843
+536,TSP - combined,[ 39.978333 -75.097222],"{'Streams and canals': 0.42, 'Industrial': 0.21, 'Transportation, communications and services': 0.37}",0.00945
+537,TSP - combined,[ 39.907891 -75.149066],"{'Commercial and Services': 0.07, 'Industrial and commercial complexes': 0.15, 'Transportation, communications and services': 0.38, 'Transitional areas': 0.16, 'Nonforested wetland': 0.24}",0.010198333
+538,TSP - combined,[ 39.94678  -75.163511],"{'Mixed urban or built-up land': 0.71, 'Residential': 0.29}",0.01574251
+539,TSP - combined,[ 39.978611 -75.118056],"{'Commercial and Services': 0.23, 'Residential': 0.48, 'Transportation, communications and services': 0.29}",0.00962
+540,TSP - combined,[ 39.989167 -75.106667],"{'Residential': 0.94, 'Mixed urban or built-up land': 0.06}",0.0065035710000000005
+541,TSP - combined,[ 39.979722 -75.110278],"{'Residential': 0.29, 'Transportation, communications and services': 0.71}",0.01265
+542,TSP - combined,[ 39.895113 -75.245738],"{'Commercial and Services': 0.06, 'Residential': 0.72, 'Nonforested wetland': 0.09, 'Transitional areas': 0.13}",0.010263158
+543,TSP - combined,[ 39.920946 -75.166845],"{'Commercial and Services': 0.08771929824561403, 'Residential': 0.8771929824561403, 'Other urban or built-up land': 0.03508771929824561}",0.0078
+544,TSP - combined,[ 39.932891 -75.226293],"{'Commercial and Services': 0.12727272727272726, 'Residential': 0.5272727272727272, 'Industrial': 0.08181818181818182, 'Transportation, communications and services': 0.15454545454545454, 'Industrial and commercial complexes': 0.10909090909090909}",0.0053
+545,TSP - combined,[ 39.980113 -75.155733],"{'Mixed urban or built-up land': 0.93, 'Residential': 0.07}",0.010994482
+546,TSP - combined,[ 39.999722 -75.075   ],"{'Residential': 0.7014925373134329, 'Industrial': 0.07462686567164178, 'Other urban or built-up land': 0.22388059701492538}",0.012658744999999999
+547,TSP - combined,[ 40.008889 -75.09778 ],"{'Commercial and Services': 0.65, 'Residential': 0.35}",0.011941786000000001
+548,TSP - combined,[ 40.049616 -75.240822],"{'Commercial and Services': 0.01, 'Residential': 0.51, 'Deciduous forest land': 0.2, 'Cropland and pasture': 0.28}",0.011675862
+549,TSP - combined,[ 40.002335 -75.219903],"{'Commercial and Services': 0.43859649122807015, 'Residential': 0.03508771929824561, 'Industrial': 0.3157894736842105, 'Reservoirs': 0.21052631578947367}",0.0072815790000000016
+550,TSP - combined,[ 40.0764   -75.011549],"{'Industrial and commercial complexes': 0.09, 'Transportation, communications and services': 0.91}",0.013003922
+551,TSP - combined,[ 40.036223 -75.139342],"{'Commercial and Services': 0.58, 'Residential': 0.42}",0.012898333000000001
+552,TSP - combined,[ 40.02789  -75.047395],"{'Commercial and Services': 0.049019607843137254, 'Residential': 0.9117647058823529, 'Other urban or built-up land': 0.0392156862745098}",0.014835000000000001
+553,TSP - combined,[ 40.237871 -76.197171],{'Cropland and pasture': 1.0},0.015171429000000002
+554,TSP - combined,[ 40.146667 -79.902222],"{'Residential': 0.21, 'Streams and canals': 0.23, 'Industrial': 0.38, 'Deciduous forest land': 0.01, 'Transportation, communications and services': 0.17}",0.011999999999999999
+555,TSP - combined,[ 40.165023 -79.862262],"{'Residential': 0.17, 'Streams and canals': 0.28, 'Industrial': 0.38, 'Deciduous forest land': 0.06, 'Transitional areas': 0.11}",0.00990606
+556,TSP - combined,[ 40.255855 -79.930875],"{'Residential': 0.28, 'Deciduous forest land': 0.72}",0.000302881
+557,TSP - combined,[ 40.171968 -80.252275],"{'Commercial and Services': 0.38, 'Residential': 0.45, 'Industrial': 0.14, 'Evergreen forest land': 0.03}",0.010222414
+558,TSP - combined,[ 40.551686 -79.759757],"{'Commercial and Services': 0.2, 'Residential': 0.15, 'Streams and canals': 0.12, 'Industrial': 0.33, 'Deciduous forest land': 0.2}",0.023750731
+559,TSP - combined,[ 40.161134 -79.880318],"{'Commercial and Services': 0.18, 'Residential': 0.53, 'Streams and canals': 0.04, 'Industrial': 0.25}",0.008919565999999999
+560,TSP - combined,[ 39.965278 -76.699444],"{'Commercial and Services': 0.01, 'Residential': 0.57, 'Industrial': 0.42}",0.031392384
+561,TSP - combined,[ 39.963333 -76.7225  ],{'Commercial and Services': 1.0},0.013375
+562,TSP - combined,[ 39.951129 -76.765774],"{'Commercial and Services': 0.04, 'Residential': 0.7, 'Industrial': 0.24, 'Cropland and pasture': 0.02}",0.029444444
+563,TSP - combined,[ 39.980018 -76.67077 ],"{'Commercial and Services': 0.82, 'Cropland and pasture': 0.04, 'Industrial': 0.06, 'Other urban or built-up land': 0.08}",0.012199999999999999
+564,TSP - combined,[ 39.930018 -76.68466 ],"{'Commercial and Services': 0.22, 'Residential': 0.11, 'Cropland and pasture': 0.6, 'Transportation, communications and services': 0.07}",0.006666666999999999
+565,TSP - combined,[ 40.028073 -76.750495],"{'Mixed urban or built-up land': 0.056074766355140186, 'Cropland and pasture': 0.9345794392523364, 'Residential': 0.009345794392523364}",0.010514545
+566,TSP - combined,[ 41.7826   -71.472282],"{'Commercial and Services': 0.135, 'Residential': 0.31, 'Deciduous forest land': 0.055, 'Transportation, communications and services': 0.5}",0.007783600000000002
+567,TSP - combined,[ 41.841767 -71.360055],"{'Residential': 0.7964601769911505, 'Streams and canals': 0.061946902654867256, 'Industrial': 0.017699115044247787, 'Other urban or built-up land': 0.11504424778761062, 'Deciduous forest land': 0.008849557522123894}",0.008509655000000001
+568,TSP - combined,[ 41.816489 -71.368943],"{'Commercial and Services': 0.03, 'Residential': 0.83, 'Transportation, communications and services': 0.14}",0.0
+569,TSP - combined,[ 41.8226   -71.410057],"{'Commercial and Services': 0.88, 'Industrial': 0.02, 'Transportation, communications and services': 0.1}",2.6920000000000002e-06
+570,TSP - combined,[ 41.820933 -71.407557],"{'Commercial and Services': 0.72, 'Streams and canals': 0.04, 'Industrial': 0.12, 'Transportation, communications and services': 0.12}",2.1620000000000002e-06
+571,TSP - combined,[ 42.002876 -71.502562],"{'Commercial and Services': 0.2361111111111111, 'Residential': 0.7638888888888888}",0.008774359
